@@ -1,0 +1,156 @@
+
+header{
+    display: flex;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+    font-family: 'Montserrat', 'Poppins' sans-serif ;
+}
+.caixa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    height: 70px;
+    width: 800px;
+    margin-left: 150px;
+    border-radius: 20px;
+    padding: 10px;
+      align-content: center;
+   justify-content: center;
+}
+.barra{
+    width: 160px;
+    height: 35px;
+    border-radius: 11px;
+    border: 1px solid rgb(37, 91, 179);
+    padding:  10px;
+    font-size: 14px;
+    background-color: rgb(37, 91, 179);
+    color: white;
+    margin-left: 30px;
+}
+.lupa{
+    color: white;
+    font-size: 17px;
+    margin-left: -30px;
+    font-weight: 900px;
+}
+.pesquisa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.label1{
+    font-size: 16px;
+    font-weight: 1;
+    margin-left: -20px;
+    color: rgb(37, 91, 179);
+    padding: 5px;
+    width: 126px;
+}
+.label2{
+    font-size: 16px;
+    font-weight: 1;
+    margin-left: 20px;
+    color: rgb(25, 12, 67);
+    padding: 5px;
+}
+.label3{
+    font-size: 16px;
+    font-weight: 1;
+    margin-left: 20px;
+    color: rgb(25, 12, 67);
+    padding: 5px;
+}
+.label4{
+    font-size: 16px;
+    font-weight: 1;
+    margin-left: 20px;
+    color: rgb(25, 12, 67);
+    padding: 5px;
+}
+.label5{
+    font-size: 16px;
+    font-weight: 1;
+    margin-left: 20px;
+    color: rgb(25, 12, 67);
+    padding: 5px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+}
+.logo{
+    width: 130px;
+    height: 74px;
+    margin-left: 15px;
+    margin-top:10px;
+   align-content: center;
+   justify-content: center;
+}
+.circulomaior{
+    width: 60px;
+    height: 60px;
+    background-color: rgba(228, 234, 243, 0.374);
+    border: 1px solid rgba(228, 234, 243, 0.374);
+    border-radius: 500px;
+    margin-left: 761px;
+    margin-top: -20px;
+}
+.circulomenor{
+    width: 42px;
+    height: 42px;
+    background-color: rgb(44, 95, 176);
+    border: 1px solid rgb(44, 95, 176);
+    border-radius: 500px;
+   align-items: center;
+    display: flex;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+.circulomenor:hover {
+  background-color: #00ffff; 
+}
+.bolinha1{
+    width: 5px;
+    height: 5px;
+    margin-left: 18px;
+    border: none;
+    border-radius: 900px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -14px;
+
+}
+.bolinha3{
+    width: 5px;
+    height: 5px;
+    margin-left: -0.0px;
+    border: none;
+    border-radius: 900px;
+    margin-top: 3px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 36px;
+}
+.bolinha4{
+    width: 5px;
+    height: 5px;
+    margin-left: -0.0px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 7px;
+    border: none;
+    border-radius: 900px;
+}
+.botoes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -700px;
+}
+.containerheader{
+  display: flex;
+}

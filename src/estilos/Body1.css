@@ -1,7 +1,8 @@
 .body1{
     background-color: rgb(255, 254, 254);
    font-family: 'Montserrat', 'Poppins' sans-serif ;
-}.quadro{
+}
+.quadro{
     position: relative;
 }
 .edificio{
@@ -26,6 +27,7 @@
     margin-left: 40px;
     display: flex;
     align-items: center;
+    
 
 }
 .texto{
@@ -41,36 +43,58 @@
 .seta{
     color: rgb(23, 91, 209);
    font-weight: bolder;
-   margin-left: -1220px;
+   margin-left: 17px;
   font-size: 30px;
   margin-top: 10px;
   display: flex;
-  justify-content: center;
+  
 }
 .orgulho{
     font-size: 60px;
     color: rgba(5, 72, 179, 0.838);
     margin-left: -738px;
-    margin-top: -20px;
+    margin-top: -95px;
     font-weight: bolder;
-    padding-bottom: 101px;
+    padding-bottom: 89px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .lasttext{
-    color: rgb(1, 12, 30);
+    color: rgb(3, 44, 111);
     font-size: 17px;
-    margin-left: 108px;
-    text-indent: 10px;
-    margin-top: -55px;
+    margin-left: 135px;
+    display: flex;
+    margin-top: -99px;
+    font-weight: lighter;
+}
+.lastdois{
+    color: rgb(3, 44, 111);;
+    font-size: 17px;
+    margin-left: 112px;
+    text-indent: 11px;
+      padding-top: 6px;
+      margin-top: 1px;
+       font-weight: lighter;
+}
+.lasttres{
+     font-size: 17px;
+    margin-left: 112px;
+    text-indent: 13px;
+   margin-top: -18px;
+    font-weight: lighter;
+    color: rgb(3, 44, 111);
+
 }
 .nossa{
-color: rgb(1, 12, 30);
+color:rgb(3, 44, 111);
     font-size: 17px;
-    margin-left: 108px;
+    margin-left: 123px;
     text-indent: 13px;
     margin-top: 2px;
+    display: flex;
+    padding-top: 6px;
+     font-weight: lighter;
 }
 
 .botao{
@@ -86,21 +110,25 @@ color: rgb(1, 12, 30);
 }
 .retangulo{
     height: 119px;
-    width: 653px;
+    width: 580px;
     background-color: rgb(0, 25, 251);
     margin-left: 700px;
     z-index: 3;
-    margin-top: -371px;
+    margin-top: -376px;
   opacity: 0.2;
+  display: flex;
 }
 .feitos{
 margin-left: 1130px;
-margin-top: -110px;
+
 color: rgb(255, 255, 255);
 position: relative;
 font-size: 26px;
 font-weight: bold;
-font-family: 'Montserrat', 'Poppins' sans-serif ;
+z-index: 3;
+margin-top: -131px;
+display: flex;
+
 }
 .futuro{
    font-family: 'Montserrat', 'Poppins' sans-serif ;
@@ -109,19 +137,20 @@ font-family: 'Montserrat', 'Poppins' sans-serif ;
     writing-mode: vertical-rl;
     margin-left: 1110px;
     position: relative;
-    margin-top: -7px;
+    margin-top: -36px;
     font-weight: bold;
 }
 .de{
     color: rgb(255, 255, 255);
-    margin-top: -396px;
+    margin-top: -421px;
     margin-left: 1130px;
     position: relative;
     font-size: 18px;
     font-weight: bold;
+    display: flex;
 }
 .divazul{
-    width: 1000px;
+    width: 980px;
     height: 90px;
     background-color: rgb(38, 86, 163);
     margin-top: 423px;
@@ -140,19 +169,17 @@ font-family: 'Montserrat', 'Poppins' sans-serif ;
   margin-left: 200px;
   white-space: nowrap;
   margin-top: 100px;
-  justify-content: center; 
-  align-items: center; 
+  display: flex;
   border: none;  
-  padding-top: 28px;
+  padding-top: 27px;
   padding-right: 10px;
   font-weight: bold;
 }
 .pontos{
-   background-color: rgb(5, 228, 228);
-    font-size: 40px;
-    margin-top: -46px;
+   color: rgb(5, 228, 228);
+    margin-top: -69px;
     position: relative;
-    margin-left: 927px ;
-    color: rgb(5, 228, 228);
-    border-radius: 50px;
+    font-size: 38px;
+    margin-left: 925px;
+    border-radius: 30px;
 }

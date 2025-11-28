@@ -1,13 +1,15 @@
 .body2{
     background-color: rgb(255, 254, 254);
    font-family: 'Montserrat', 'Poppins' sans-serif ;
+   margin-bottom: 20px;
 }
 .setadireita{
     color: rgb(4, 38, 97);
    font-weight: bolder;
+   margin-left: 14px;
   font-size: 30px;
-  margin-top: -9px;
-    margin-left: -1226px;
+  margin-top: 82px;
+  display: flex;
 }
 .div1{
     background-color: white;
@@ -16,7 +18,7 @@
     width: 270px;
     height: 107px;
     margin-left: 50px;
-    margin-top: 35px;
+    margin-top: -70px;
     font-size: 12px;
 }
 .Contabilidade{
@@ -28,21 +30,21 @@
 }
 .licenciatura1{
     margin-left: 140px;
-    margin-top: -79px;
-   font-size: 15px;
+    margin-top: -103px;
+   font-size: 14px;
    color: rgb(1, 47, 87);
 }
 .contabilidade{
-margin-left: 140px;
-    margin-top: 5px;
-   font-size: 15px;
+margin-left: 139px;
+    margin-top: -22px;
+   font-size: 14px;
    font-weight: 700;
    color: rgb(3, 31, 72);
 }
 .data{
-margin-left: 140px;
-    margin-top: 6px;
-   font-size: 15px;
+margin-left: 139px;
+    margin-top: -20px;
+   font-size: 14px;
    color: rgb(1, 47, 87);
 }
 .segundadiv{
@@ -54,7 +56,7 @@ margin-left: 140px;
     margin-left: 340px;
     margin-top: -108px;
 }
-.imagem2{
+.gestaobancaria{
      width: 100px;
     height: 74px;
     border-radius: 12px;
@@ -63,21 +65,21 @@ margin-left: 140px;
 }
 .licenciatura2{
     margin-left: 143px;
-    margin-top: -78px;
-   font-size: 15px;
+    margin-top: -104px;
+   font-size: 14px;
    color: rgb(1, 47, 87);
 }
 .gestao{
     margin-left: 141px;
-    margin-top: 6px;
-   font-size: 15px;
+    margin-top: -20px;
+   font-size: 14px;
    font-weight: 700;
    color: rgb(3, 31, 72);
 }
 .data2{
     margin-left: 139px;
-    margin-top: 7px;
-   font-size: 15px;
+    margin-top: -22px;
+   font-size: 14px;
    color: rgb(1, 47, 87);
 }
 .terceiradiv{
@@ -89,30 +91,30 @@ margin-left: 140px;
     margin-left: 640px;
     margin-top: -110px;
 }
-.imagem3{
+.informatica{
      width: 100px;
     height: 75px;
     border-radius: 12px;
-    margin-left: 14px;
+    margin-left: 13px;
     margin-top: 15px;
 }
 .licenciatura3{
      margin-left: 138px;
-    margin-top: -78px;
-   font-size: 15px;
+    margin-top: -104px;
+   font-size: 14px;
    color: rgb(1, 47, 87);
 }
-.informatica{
+.informatica2{
      margin-left: 138px;
-    margin-top: 4px;
-   font-size: 15px;
+    margin-top: -21px;
+   font-size: 14px;
    font-weight: 700;
    color: rgb(3, 31, 72);
 }
 .data3{
      margin-left: 137px;
-    margin-top: 7px;
-   font-size: 15px;
+    margin-top: -24px;
+   font-size: 14px;
    color: rgb(1, 47, 87);
 }
 .quartadiv{
@@ -124,7 +126,7 @@ margin-left: 140px;
     margin-left: 940px;
     margin-top: -110px;
 }
-.imagem4{
+.gestaoemanutencao{
      width: 100px;
     height: 77px;
     border-radius: 12px;
@@ -133,21 +135,21 @@ margin-left: 140px;
 }
 .formacao{
      margin-left: 137px;
-    margin-top: -80px;
-   font-size: 15px;
+    margin-top: -106px;
+   font-size: 14px;
    color: rgb(1, 47, 87);
 }
 .manutencao{
      margin-left: 136px;
-    margin-top: 4px;
-   font-size: 15px;
+    margin-top: -19px;
+   font-size: 14px;
    font-weight: 700;
    color: rgb(3, 31, 72);
 }
 .data4{
      margin-left: 136px;
-    margin-top: 9px;
-   font-size: 15px;
+    margin-top: -23px;
+   font-size: 14px;
    color: rgb(1, 47, 87);
 }
 .setadireita1{
@@ -155,5 +157,5 @@ margin-left: 140px;
    font-weight: bolder;
    margin-left: 1237px;
   font-size: 30px;
-  margin-top: -74px;
+  margin-top: -105px;
 }

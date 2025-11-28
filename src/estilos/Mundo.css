@@ -1,0 +1,25 @@
+.faixaazul{
+     width: 1200px;
+    height: 160px;
+    background-color: rgba(0, 55, 111, 0.922);
+    margin-top: 143px;
+    position: relative;
+    margin-left: -8px;
+}
+.faixaverde{
+      width: 33px;
+    height: 160px;
+    background-color: rgb(5, 228, 228);
+    margin-left: 1200px;
+   position: relative;
+
+}
+.mundo{
+      margin-left: 30px;
+    width: 900px;
+  margin-top: -115px;
+   position: absolute;
+  top: 120%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,24 @@
+.titulo{
+    color:rgb(45, 98, 179);
+    margin-left: 661px;
+    margin-top: -292px;
+    font-weight: lighter;
+    font-size: 18px;
+}
+.subtitulo{
+    color: rgb(3, 30, 72);
+    font-size: 25px;
+    margin-top: -20px;
+    margin-left: 660px;
+    font-size: 22px;
+}
+.conteudo{
+    color: rgb(3, 30, 72);
+    font-size: 18px;
+    margin-top: -10px;
+    margin-left: 661px;
+    font-size: 15px;
+    white-space: inherit;
+     line-height: 1.6;
+     
+}

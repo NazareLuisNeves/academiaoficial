@@ -1,82 +1,85 @@
-.body3{
+.body3 {
   background-color: rgb(255, 254, 254);
-   font-family: 'Montserrat', 'Poppins' sans-serif ;
-   margin-top: 45px;
+  font-family: 'Montserrat', 'Poppins' sans-serif;
+  margin-top: 45px;
 }
-.moco{
-    margin-left: 5px;
-    width: 200px;
-    height: 349px;
-    margin-top: 50px;
+.moco {
+  margin-left: 5px;
+  width: 200px;
+  height: 349px;
+  margin-top: 50px;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
 }
-.idoso{
-    width: 200px;
-    height: 350px;
-    margin-top: 50px;
+.idoso {
+  width: 200px;
+  height: 350px;
+  margin-top: 50px;
   margin-left: -10px;
 }
-.moca{
-     width: 200px;
-    height: 349px;
-    margin-top: 50px;
+.moca {
+  width: 200px;
+  height: 349px;
+  margin-top: 50px;
   margin-left: -10px;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
 }
-.faixa1{
-      height: 100px;
-    width: 590px;
-    background-color: rgb(6, 30, 250);
-    margin-left: 0.5px;
-    z-index: 3;
-    margin-top: -280px;
+.faixa1 {
+  height: 100px;
+  width: 590px;
+  background-color: rgb(6, 30, 250);
+  margin-left: 0.5px;
+  z-index: 3;
+  margin-top: -280px;
   opacity: 0.2;
 }
-.faixa2{
-    height: 100px;
-    width: 620px;
-    background-color: rgb(6, 30, 250);
-    margin-left: -7px;
-    z-index: 3;
-    margin-top: -100px;
+.faixa2 {
+  height: 100px;
+  width: 620px;
+  background-color: rgb(6, 30, 250);
+  margin-left: -7px;
+  z-index: 3;
+  margin-top: -100px;
 }
-.sobrenos{
-    color: rgb(45, 98, 179);
-    font-size: 18px;
-    margin-left: 624px;
-    margin-top: -149px;
-    font-weight: lighter;
+.sobrenos {
+  color: rgb(45, 98, 179);
+  font-size: 18px;
+  margin-left: 623px;
+  margin-top: -149px;
+  font-weight: lighter;
 }
-.umacademia{
-     margin-left: 621px;
-     margin-top: -1px;
-     color: rgb(3, 50, 89);
-     font-size: 29px;
+.umacademia {
+  margin-left: 621px;
+  margin-top: -28px;
+  color: rgb(3, 50, 89);
+  font-size: 29px;
 }
-.textao{
-     margin-left: 624px;
-     margin-top: -5px;
-     color: rgb(0, 47, 86);
-     font-size: 13px;
-        line-height: 1.9;
-        font-weight: lighter;
+.umacademia:hover{
+  background-color: rgb(3, 50, 89);
+  color: rgb(255, 254, 254);
 }
-.saibamais{
-    background-color: rgb(38, 86, 163);
-    width: 130px;
-    height: 42px;
-    color: white;
-    margin-left: 623px;
-    border: none;
-    border-radius: 10px;
-    font-size: 15px;
-    position: static;
-    margin-top: 23px;
+.textao {
+  margin-left: 624px;
+  margin-top: -5px;
+  color: rgb(0, 47, 86);
+  font-size: 13px;
+  line-height: 1.9;
+  font-weight: lighter;
 }
-.bolinhapri{
-    width: 1270px;
+.saibamais {
+  background-color: rgb(38, 86, 163);
+  width: 130px;
+  height: 42px;
+  color: white;
+  margin-left: 623px;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  position: static;
+  margin-top: 23px;
+}
+.bolinhapri {
+  width: 1270px;
   margin-top: 73px;
- 
 }

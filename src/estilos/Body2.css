@@ -1,161 +1,161 @@
-.body2{
-    background-color: rgb(255, 254, 254);
-   font-family: 'Montserrat', 'Poppins' sans-serif ;
-   margin-bottom: 20px;
+.body2 {
+  background-color: rgb(255, 254, 254);
+  font-family: 'Montserrat', 'Poppins' sans-serif;
+  margin-bottom: 20px;
 }
-.setadireita{
-    color: rgb(4, 38, 97);
-   font-weight: bolder;
-   margin-left: 14px;
+.setadireita {
+  color: rgb(4, 38, 97);
+  font-weight: bolder;
+  margin-left: 14px;
   font-size: 30px;
   margin-top: 82px;
   display: flex;
 }
-.div1{
-    background-color: white;
-    border: 1.5px solid rgb(219, 219, 219);
-    border-radius: 28px;
-    width: 270px;
-    height: 107px;
-    margin-left: 50px;
-    margin-top: -70px;
-    font-size: 12px;
+.div1 {
+  background-color: white;
+  border: 1.5px solid rgb(219, 219, 219);
+  border-radius: 28px;
+  width: 270px;
+  height: 107px;
+  margin-left: 50px;
+  margin-top: -70px;
+  font-size: 12px;
 }
-.Contabilidade{
-    width: 100px;
-    height: 73px;
-    border-radius: 12px;
-    margin-left: 13px;
-    margin-top: 16px;
+.Contabilidade {
+  width: 100px;
+  height: 73px;
+  border-radius: 12px;
+  margin-left: 13px;
+  margin-top: 16px;
 }
-.licenciatura1{
-    margin-left: 140px;
-    margin-top: -103px;
-   font-size: 14px;
-   color: rgb(1, 47, 87);
+.licenciatura1 {
+  margin-left: 140px;
+  margin-top: -103px;
+  font-size: 14px;
+  color: rgb(1, 47, 87);
 }
-.contabilidade{
-margin-left: 139px;
-    margin-top: -22px;
-   font-size: 14px;
-   font-weight: 700;
-   color: rgb(3, 31, 72);
+.contabilidade {
+  margin-left: 139px;
+  margin-top: -22px;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(3, 31, 72);
 }
-.data{
-margin-left: 139px;
-    margin-top: -20px;
-   font-size: 14px;
-   color: rgb(1, 47, 87);
+.data {
+  margin-left: 139px;
+  margin-top: -20px;
+  font-size: 14px;
+  color: rgb(1, 47, 87);
 }
-.segundadiv{
-     background-color: white;
-    border: 1.5px solid rgb(219, 219, 219);
-    border-radius: 28px;
-    width: 280px;
-    height: 109px;
-    margin-left: 340px;
-    margin-top: -108px;
+.segundadiv {
+  background-color: white;
+  border: 1.5px solid rgb(219, 219, 219);
+  border-radius: 28px;
+  width: 280px;
+  height: 109px;
+  margin-left: 340px;
+  margin-top: -108px;
 }
-.gestaobancaria{
-     width: 100px;
-    height: 74px;
-    border-radius: 12px;
-    margin-left: 14px;
-    margin-top: 15px;
+.gestaobancaria {
+  width: 100px;
+  height: 74px;
+  border-radius: 12px;
+  margin-left: 14px;
+  margin-top: 15px;
 }
-.licenciatura2{
-    margin-left: 143px;
-    margin-top: -104px;
-   font-size: 14px;
-   color: rgb(1, 47, 87);
+.licenciatura2 {
+  margin-left: 143px;
+  margin-top: -104px;
+  font-size: 14px;
+  color: rgb(1, 47, 87);
 }
-.gestao{
-    margin-left: 141px;
-    margin-top: -20px;
-   font-size: 14px;
-   font-weight: 700;
-   color: rgb(3, 31, 72);
+.gestao {
+  margin-left: 141px;
+  margin-top: -20px;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(3, 31, 72);
 }
-.data2{
-    margin-left: 139px;
-    margin-top: -22px;
-   font-size: 14px;
-   color: rgb(1, 47, 87);
+.data2 {
+  margin-left: 139px;
+  margin-top: -22px;
+  font-size: 14px;
+  color: rgb(1, 47, 87);
 }
-.terceiradiv{
-     background-color: white;
-    border: 1.5px solid rgb(219, 219, 219);
-    border-radius: 28px;
-    width: 280px;
-    height: 109px;
-    margin-left: 640px;
-    margin-top: -110px;
+.terceiradiv {
+  background-color: white;
+  border: 1.5px solid rgb(219, 219, 219);
+  border-radius: 28px;
+  width: 280px;
+  height: 109px;
+  margin-left: 640px;
+  margin-top: -110px;
 }
-.informatica{
-     width: 100px;
-    height: 75px;
-    border-radius: 12px;
-    margin-left: 13px;
-    margin-top: 15px;
+.informatica {
+  width: 100px;
+  height: 75px;
+  border-radius: 12px;
+  margin-left: 13px;
+  margin-top: 15px;
 }
-.licenciatura3{
-     margin-left: 138px;
-    margin-top: -104px;
-   font-size: 14px;
-   color: rgb(1, 47, 87);
+.licenciatura3 {
+  margin-left: 138px;
+  margin-top: -104px;
+  font-size: 14px;
+  color: rgb(1, 47, 87);
 }
-.informatica2{
-     margin-left: 138px;
-    margin-top: -21px;
-   font-size: 14px;
-   font-weight: 700;
-   color: rgb(3, 31, 72);
+.informatica2 {
+  margin-left: 138px;
+  margin-top: -21px;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(3, 31, 72);
 }
-.data3{
-     margin-left: 137px;
-    margin-top: -24px;
-   font-size: 14px;
-   color: rgb(1, 47, 87);
+.data3 {
+  margin-left: 137px;
+  margin-top: -24px;
+  font-size: 14px;
+  color: rgb(1, 47, 87);
 }
-.quartadiv{
- background-color: white;
-    border: 1.5px solid rgb(219, 219, 219);
-    border-radius: 28px;
-    width: 280px;
-    height: 111px;
-    margin-left: 940px;
-    margin-top: -110px;
+.quartadiv {
+  background-color: white;
+  border: 1.5px solid rgb(219, 219, 219);
+  border-radius: 28px;
+  width: 280px;
+  height: 111px;
+  margin-left: 940px;
+  margin-top: -110px;
 }
-.gestaoemanutencao{
-     width: 100px;
-    height: 77px;
-    border-radius: 12px;
-    margin-left: 14px;
-    margin-top: 15px;
+.gestaoemanutencao {
+  width: 100px;
+  height: 77px;
+  border-radius: 12px;
+  margin-left: 14px;
+  margin-top: 15px;
 }
-.formacao{
-     margin-left: 137px;
-    margin-top: -106px;
-   font-size: 14px;
-   color: rgb(1, 47, 87);
+.formacao {
+  margin-left: 137px;
+  margin-top: -106px;
+  font-size: 14px;
+  color: rgb(1, 47, 87);
 }
-.manutencao{
-     margin-left: 136px;
-    margin-top: -19px;
-   font-size: 14px;
-   font-weight: 700;
-   color: rgb(3, 31, 72);
+.manutencao {
+  margin-left: 136px;
+  margin-top: -19px;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(3, 31, 72);
 }
-.data4{
-     margin-left: 136px;
-    margin-top: -23px;
-   font-size: 14px;
-   color: rgb(1, 47, 87);
+.data4 {
+  margin-left: 136px;
+  margin-top: -23px;
+  font-size: 14px;
+  color: rgb(1, 47, 87);
 }
-.setadireita1{
-     color: rgb(4, 38, 97);
-   font-weight: bolder;
-   margin-left: 1237px;
+.setadireita1 {
+  color: rgb(4, 38, 97);
+  font-weight: bolder;
+  margin-left: 1237px;
   font-size: 30px;
   margin-top: -105px;
 }

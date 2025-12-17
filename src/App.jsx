@@ -1,15 +1,20 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom'        
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './Paginas/Home'
 import Sobrenos from './Paginas/Sobrenos'
+import MensagemDaPresidente from "./Paginas/MensagemDaPresidente";
+
+
 function App() {
   return (
     <>
-      <BrowserRouter>
+    <Router>
       <Routes>
-        <Route path='/' element={<Home/>}/>
-         <Route path='/' element={<Sobrenos/>}/>
+        <Route path='/home' element={<Home/>}/>
+        <Route path='/sobrenos' element={<Sobrenos/>}/>
+        <Route path='/mensagemdapresidente' element={<MensagemDaPresidente/>}/>
       </Routes>
-      </BrowserRouter>
+    </Router>
+      
     </>
   )
 }

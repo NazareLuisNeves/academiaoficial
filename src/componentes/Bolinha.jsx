@@ -1,8 +1,9 @@
 import React from 'react'
+import bolinhapri from './../assets/bolinhapri.png' 
 
  function Bolinha() {
   return (
-    <img src="/bolinhapri.png" alt="" className='bolinhapri' />
+    <img src={bolinhapri} alt="" className='bolinhapri' />
   )
 }
 export default Bolinha;

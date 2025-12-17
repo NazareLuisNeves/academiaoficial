@@ -1,24 +1,23 @@
-.navbar{
-    text-decoration: none;
-    color: inherit;
-    cursor: pointer;
+.navbar {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
-.menu1{
-    
-    color:rgb(37, 91, 179);
-    background-color:rgba(228, 234, 243, 0.374);
-    width: 192px;
-    height: 292px;
-    border-radius: 23px;
-    margin-top: 372px;
-    margin-left: -561px;
-    margin-right: 377px;
-    padding-left: 19px;
-    padding-top: 13px;
-    line-height: 2.9;
-    font-size: 14px;
+.menu1 {
+  color: rgb(37, 91, 179);
+  background-color: rgba(228, 234, 243, 0.374);
+  width: 192px;
+  height: 292px;
+  border-radius: 23px;
+  margin-top: 372px;
+  margin-left: -561px;
+  margin-right: 377px;
+  padding-left: 19px;
+  padding-top: 13px;
+  line-height: 2.9;
+  font-size: 14px;
 }
-.link{
-    text-decoration: none;
-    color: inherit;
+.link {
+  text-decoration: none;
+  color: inherit;
 }

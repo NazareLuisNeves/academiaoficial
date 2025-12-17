@@ -1,251 +1,251 @@
-.body5{
-    font-family: 'Montserrat', 'Poppins' sans-serif ;
+.body5 {
+  font-family: 'Montserrat', 'Poppins' sans-serif;
 }
-.maispubli{
-     background-color: rgb(38, 86, 163);
-    width: 200px;
-    height: 42px;
-    color: white;
-    margin-left: 1050px;
-    border: none;
-    border-radius: 10px;
-    font-size: 15px;
-    margin-top: 95px;
+.maispubli {
+  background-color: rgb(38, 86, 163);
+  width: 200px;
+  height: 42px;
+  color: white;
+  margin-left: 1050px;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  margin-top: 95px;
 }
-.segundaacademia{
-     color: rgb(45, 98, 179);
-    font-size: 18px;
-    margin-left: 24px;
-    margin-top: -46px;
-    display: flex;
-    font-weight: lighter;
+.segundaacademia {
+  color: rgb(45, 98, 179);
+  font-size: 18px;
+  margin-left: 24px;
+  margin-top: -46px;
+  display: flex;
+  font-weight: lighter;
 }
-.ultimaspubli{
-    color: rgb(3, 50, 89);
-     margin-left: 21px;
-     margin-top: -22px;
-     font-size: 27px;
+.ultimaspubli {
+  color: rgb(3, 50, 89);
+  margin-left: 21px;
+  margin-top: -22px;
+  font-size: 27px;
 }
-.caixinha0{
-     width: 220px;
-    height: 280px;
-    border: none;
-    border-radius: 30px;
-    border: 2px solid rgba(217, 225, 225, 0.831);
-    margin-top: 18px;
-    margin-left: 17px;
-    background-color: rgb(255, 255, 255);
+.caixinha0 {
+  width: 220px;
+  height: 280px;
+  border: none;
+  border-radius: 30px;
+  border: 2px solid rgba(217, 225, 225, 0.831);
+  margin-top: 18px;
+  margin-left: 17px;
+  background-color: rgb(255, 255, 255);
 }
-.presidente{
-     width: 180px;
-    height: 120px;
-    border-radius: 20px;
-    margin-left: 18px;
-    margin-top: 20px;
+.presidente {
+  width: 180px;
+  height: 120px;
+  border-radius: 20px;
+  margin-left: 18px;
+  margin-top: 20px;
 }
-.condecorada{
-      margin-left: 20px;
-    margin-top: -21px;
-    color: rgb(3, 50, 89);
-    font-size: 15px;
-    font-weight: lighter;
+.condecorada {
+  margin-left: 20px;
+  margin-top: -21px;
+  color: rgb(3, 50, 89);
+  font-size: 15px;
+  font-weight: lighter;
 }
-.artigorecente{
-     background-color: rgb(5, 228, 228);
-    color: rgb(41, 88, 159);
-    border: none;
-    border-radius: 8px;
-    height: 26px;
-    margin-left: 20px;
-    font-size: 12px;
-    margin-top: 9px;
-    display: flex;
-    width: 100px;
-    padding-left: 10px;
-    padding-top: 5px;
+.artigorecente {
+  background-color: rgb(5, 228, 228);
+  color: rgb(41, 88, 159);
+  border: none;
+  border-radius: 8px;
+  height: 26px;
+  margin-left: 20px;
+  font-size: 12px;
+  margin-top: 9px;
+  display: flex;
+  width: 100px;
+  padding-left: 10px;
+  padding-top: 5px;
 }
-.lerpubli{
-     color: rgb(38, 86, 163);
-    margin-left: 20px;
-    display: flex;
-    margin-top: -15px;
-     font-size: 15px;
+.lerpubli {
+  color: rgb(38, 86, 163);
+  margin-left: 20px;
+  display: flex;
+  margin-top: -15px;
+  font-size: 15px;
 }
-.caixinha{
-    width: 220px;
-    height: 280px;
-    border: none;
-    border-radius: 30px;
-    border: 2px solid rgba(217, 225, 225, 0.831);
-    margin-top: -281px;
-    margin-left: 272px;
-    background-color: rgb(255, 255, 255);
+.caixinha {
+  width: 220px;
+  height: 280px;
+  border: none;
+  border-radius: 30px;
+  border: 2px solid rgba(217, 225, 225, 0.831);
+  margin-top: -281px;
+  margin-left: 272px;
+  background-color: rgb(255, 255, 255);
 }
-.tias{
-    width: 180px;
-    height: 120px;
-    border-radius: 20px;
-    margin-left: 20px;
-    margin-top: 20px;
+.tias {
+  width: 180px;
+  height: 120px;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
 }
-.isaf{
-    margin-left: 20px;
-    margin-top: -21px;
-    color: rgb(3, 50, 89);
-     font-size: 15px;
-    font-weight: lighter;
+.isaf {
+  margin-left: 20px;
+  margin-top: -21px;
+  color: rgb(3, 50, 89);
+  font-size: 15px;
+  font-weight: lighter;
 }
-.dataoito{
-   background-color: rgba(203, 223, 230, 0.726);
-    color: rgb(41, 88, 159);
-    border: none;
-    border-radius: 7px;
-    height: 26px;
-    margin-left: 20px;
-    font-size: 12px;
-    margin-top: 8px;
-    width: 70px;
-    display: flex;
-     padding-left: 6px;
-    padding-top: 5px;
+.dataoito {
+  background-color: rgba(203, 223, 230, 0.726);
+  color: rgb(41, 88, 159);
+  border: none;
+  border-radius: 7px;
+  height: 26px;
+  margin-left: 20px;
+  font-size: 12px;
+  margin-top: 8px;
+  width: 70px;
+  display: flex;
+  padding-left: 6px;
+  padding-top: 5px;
 }
-.lerpubli{
-    color: rgb(38, 86, 163);
-    margin-left: 20px;
-    font-weight: 900;
-     font-size: 15px;
+.lerpubli {
+  color: rgb(38, 86, 163);
+  margin-left: 20px;
+  font-weight: 900;
+  font-size: 15px;
 }
-.caixinha2{
-      width: 220px;
-    height: 280px;
-    border: none;
-    border-radius: 30px;
-    border: 2px solid rgba(217, 225, 225, 0.831);
-    margin-top: -280px;
-    margin-left: 525px;
-    background-color: rgb(255, 255, 255);
+.caixinha2 {
+  width: 220px;
+  height: 280px;
+  border: none;
+  border-radius: 30px;
+  border: 2px solid rgba(217, 225, 225, 0.831);
+  margin-top: -280px;
+  margin-left: 525px;
+  background-color: rgb(255, 255, 255);
 }
-.conferencia{
-    width: 180px;
-    height: 120px;
-    border-radius: 20px;
-    margin-left: 20px;
-    margin-top: 20px
+.conferencia {
+  width: 180px;
+  height: 120px;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
 }
-.isaf2{
-    margin-left: 20px;
-    margin-top: -21px;
-    color: rgb(3, 50, 89);
-     font-size: 15px;
-    font-weight: lighter;
+.isaf2 {
+  margin-left: 20px;
+  margin-top: -21px;
+  color: rgb(3, 50, 89);
+  font-size: 15px;
+  font-weight: lighter;
 }
-.data5{
-     background-color: rgba(203, 223, 230, 0.726);
-   color: rgb(41, 88, 159);
-    border: none;
-    border-radius: 7px;
-    height: 26px;
-    margin-left: 20px;
-    font-size: 12px;
-    margin-top: 6px;
-    width: 70px;
-    display: flex;
-     padding-left: 6px;
-    padding-top: 5px;
+.data5 {
+  background-color: rgba(203, 223, 230, 0.726);
+  color: rgb(41, 88, 159);
+  border: none;
+  border-radius: 7px;
+  height: 26px;
+  margin-left: 20px;
+  font-size: 12px;
+  margin-top: 6px;
+  width: 70px;
+  display: flex;
+  padding-left: 6px;
+  padding-top: 5px;
 }
-.lerpubli{
-     color: rgb(38, 86, 163);
-    margin-left: 20px;
-    font-weight: 900;
+.lerpubli {
+  color: rgb(38, 86, 163);
+  margin-left: 20px;
+  font-weight: 900;
 }
-.caixinha3{
-     width: 220px;
-    height: 280px;
-    border: none;
-    border-radius: 30px;
-    border: 2px solid rgba(217, 225, 225, 0.831);
-    margin-top: -281px;
-    margin-left:780px;
-    background-color: rgb(255, 255, 255);
+.caixinha3 {
+  width: 220px;
+  height: 280px;
+  border: none;
+  border-radius: 30px;
+  border: 2px solid rgba(217, 225, 225, 0.831);
+  margin-top: -281px;
+  margin-left: 780px;
+  background-color: rgb(255, 255, 255);
 }
-.confe2{
-      width: 180px;
-    height: 120px;
-    border-radius: 20px;
-    margin-left: 20px;
-    margin-top: 20px;
+.confe2 {
+  width: 180px;
+  height: 120px;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
 }
-.isafencerra{
-     margin-left: 20px;
-    margin-top: -21px;
-    color: rgb(3, 50, 89);
-     font-size: 15px;
-    font-weight: lighter;
+.isafencerra {
+  margin-left: 20px;
+  margin-top: -21px;
+  color: rgb(3, 50, 89);
+  font-size: 15px;
+  font-weight: lighter;
 }
-.data6{
-    background-color: rgba(203, 223, 230, 0.726);
-   color: rgb(41, 88, 159);
-    border: none;
-    border-radius: 7px;
-    height: 26px;
-    margin-left: 20px;
-    font-size: 12px;
-    margin-top: 7px;
-     width: 70px;
-    display: flex;
-     padding-left: 6px;
-    padding-top: 5px;
+.data6 {
+  background-color: rgba(203, 223, 230, 0.726);
+  color: rgb(41, 88, 159);
+  border: none;
+  border-radius: 7px;
+  height: 26px;
+  margin-left: 20px;
+  font-size: 12px;
+  margin-top: 7px;
+  width: 70px;
+  display: flex;
+  padding-left: 6px;
+  padding-top: 5px;
 }
-.lerpubli{
-     color: rgb(38, 86, 163);
-    margin-left: 20px;
-    font-weight: 900;
+.lerpubli {
+  color: rgb(38, 86, 163);
+  margin-left: 20px;
+  font-weight: 900;
 }
-.caixinha4{
-     width: 220px;
-    height: 280px;
-    border: none;
-    border-radius: 30px;
-    border: 2px solid rgba(217, 225, 225, 0.831);
-    margin-top: -285px;
-    margin-left:1036px;
-    background-color: rgb(255, 255, 255);
+.caixinha4 {
+  width: 220px;
+  height: 280px;
+  border: none;
+  border-radius: 30px;
+  border: 2px solid rgba(217, 225, 225, 0.831);
+  margin-top: -285px;
+  margin-left: 1036px;
+  background-color: rgb(255, 255, 255);
 }
-.senhora{
-     width: 180px;
-    height: 120px;
-    border-radius: 20px;
-    margin-left: 20px;
-    margin-top: 20px;
+.senhora {
+  width: 180px;
+  height: 120px;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
 }
-.RH{
-    margin-left: 20px;
-    margin-top: -21px;
-    color: rgb(3, 50, 89);
-     font-size: 15px;
-    font-weight: lighter;
+.RH {
+  margin-left: 20px;
+  margin-top: -21px;
+  color: rgb(3, 50, 89);
+  font-size: 15px;
+  font-weight: lighter;
 }
-.data7{
-    background-color: rgba(203, 223, 230, 0.726);
-   color: rgb(41, 88, 159);
-    border: none;
-    border-radius: 7px;
-    height: 26px;
-    margin-left: 20px;
-    font-size: 12px;
-    margin-top: 7px;
-     width: 70px;
-    display: flex;
-     padding-left: 6px;
-    padding-top: 5px;
+.data7 {
+  background-color: rgba(203, 223, 230, 0.726);
+  color: rgb(41, 88, 159);
+  border: none;
+  border-radius: 7px;
+  height: 26px;
+  margin-left: 20px;
+  font-size: 12px;
+  margin-top: 7px;
+  width: 70px;
+  display: flex;
+  padding-left: 6px;
+  padding-top: 5px;
 }
-.lerpubli{
-     color: rgb(38, 86, 163);
-    margin-left: 20px;
-    font-weight: 900;
+.lerpubli {
+  color: rgb(38, 86, 163);
+  margin-left: 20px;
+  font-weight: 900;
 }
-.bolinhapri{
-    margin-left: 10px;
-    width: 1270px;
+.bolinhapri {
+  margin-left: 10px;
+  width: 1270px;
   margin-top: 119px;
 }

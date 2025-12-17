@@ -1,132 +1,203 @@
-.geral{
-font-family: 'Montserrat', 'Poppins' sans-serif ;
+.geral {
+  font-family: 'Montserrat', 'Poppins' sans-serif;
 }
-.footer{
-    width: auto;
+.footer {
+  width: auto;
   margin: 0;
-    height: 400px;
-    background-color: rgba(221, 232, 236, 0.726);
-    margin-top: 70px;
-    z-index: 1;
+  height: 400px;
+  background-color: rgba(221, 232, 236, 0.726);
+  margin-top: 70px;
+  
 }
-.icone{
-     width: 179px;
-    height: 97px;
-   margin-left: 10px;
-   margin-top: -341px;
-   display: flex;
-   position: relative;
+.icone {
+  width: 179px;
+  height: 97px;
+  margin-left: 10px;
+  margin-top: -341px;
+  display: flex;
+  position: relative;
 }
-.criada{
-    margin-left: 15px;
-    color: rgb(3, 30, 72);
-    margin-top: -8px;
-    line-height: 1.6;
-    font-size: 15px;
-    font-weight: lighter;
+.criada {
+  margin-left: 15px;
+  color: rgb(3, 30, 72);
+  margin-top: -8px;
+  line-height: 1.6;
+  font-size: 15px;
+  font-weight: lighter;
 }
-.titulo{
-    font-weight: bold;
-    font-size: 15px;
+.titulo {
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 181px;
+  margin-top: -32px;
+  color: rgb(3, 30, 72);
 }
-.grupo1{
-    margin-left: 181px;
-    margin-top: -198px;
-    color: rgb(3, 30, 72);
-    font-size: 15px;
-   
+.sobrenosfooter{
+  font-weight: bold;
+   margin-left: 181px;
+  margin-top: -32px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.grupo2{
-     margin-left: 368px;
-    margin-top: -193px;
-    color: rgb(3, 30, 72);
-    font-size: 15px;
+.mensagemdapr{
+   font-weight: bold;
+   margin-left: 181px;
+  margin-top: -35px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.atalhos{
-    font-weight: bold;
-    font-size: 15px;
+.orgaossoci{
+   font-weight: bold;
+   margin-left: 181px;
+  margin-top: -35px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.grupo3{
-     margin-left: 518px;
-    margin-top: -142px;
-    color: rgb(3, 30, 72);
-    font-size: 15px;
+.carreiras{
+   font-weight: bold;
+   margin-left: 181px;
+  margin-top: -35px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.qualidade{
-     font-weight: bold;
-    font-size: 15px;
+.grupo1 {
+  margin-left: 181px;
+  margin-top: -216px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.contatos{
-     margin-left: 932px;
-    margin-top: -113px;
-    color: rgb(3, 30, 72);
-    font-size: 18px;
-     font-weight: bold;
-    font-size: 15px;
+.grupo2 {
+  margin-left: 368px;
+  margin-top: -176px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.avenida{
-     margin-left: 956px;
-    margin-top: -18px;
-    color: rgb(3, 30, 72);
-    font-size: 15px;
+.atalhos {
+  font-weight: bold;
+  font-size: 15px;
+   margin-left: 181px;
+  color: rgb(3, 30, 72);
+  
 }
-.resto{
-    margin-left: 922px;
-   width: 32px;
+.iniciativas{
+   font-weight: bold;
+   margin-left: 181px;
+  margin-top: -33px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+}
+.publicacoes{
+   font-weight: bold;
+   margin-left: 181px;
+  margin-top: -32px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+}
+.espacos{
+   font-weight: bold;
+   margin-left: 181px;
+  margin-top: -20px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+}
+.grupo3 {
+  margin-left: 518px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+}
+.qualidade {
+  font-weight: bold;
+  font-size: 15px;
+   margin-left: 181px;
+  margin-top: -150px;
+  color: rgb(3, 30, 72);
+}
+.politicaQualidade{
+   font-weight: bold;
+   margin-left: 181px;
+  margin-top: -32px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+}
+.certificado{
+   font-weight: bold;
+   margin-left: 181px;
+  margin-top: -31px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+}
+.contatos {
+  margin-left: 932px;
+  margin-top: -109px;
+  color: rgb(3, 30, 72);
+  font-size: 18px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.avenida {
+  margin-left: 948px;
+  margin-top: -18px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+}
+.resto {
+  margin-left: 913px;
+  width: 32px;
   margin-top: -112px;
   display: flex;
   height: 103px;
-
 }
-.AB{
-     margin-left: 956px;
-    margin-top: -34px;
-    color: rgb(3, 30, 72);
-    font-size: 15px;
-}.number{
-    margin-left: 956px;
-    margin-top: -35px;
-    color: rgb(3, 30, 72);
-    font-size: 15px;
+.AB {
+  margin-left: 948px;
+  margin-top: -34px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.email{
-     margin-left: 956px;
-    margin-top: -37px;
-    color: rgb(3, 30, 72);
-    font-size: 15px;
+.number {
+  margin-left: 948px;
+  margin-top: -35px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.cincobolinhas{
-    width: 400px;
-    height: 86px;
-    margin-left: 878px;
-   margin-top: 18px;
-   display: flex;
+.email {
+  margin-left: 948px;
+  margin-top: -37px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
 }
-.final{
-    width: 1280px;
-    height: 43px;
-    background-color:rgb(0, 86, 185);
-  margin-top: 70px;
-   
+.cincobolinhas {
+  width: 400px;
+  height: 86px;
+  margin-left: 878px;
+  margin-top: 18px;
+  display: flex;
 }
-.politica{
-    margin-left: 20px;
-    color: white;
-   padding-top: 11px;
+.final {
+  width: 1280px;
+  height: 43px;
+  background-color: rgb(0, 86, 185);
+  margin-top: 84px;
 }
-.centro{
-     margin-left: 500px;
-    color: rgb(255, 255, 255);
-   padding-top: 15px;
-    margin-top: -33px;
-   
+.politica {
+  margin-left: 20px;
+  color: white;
+  padding-top: 11px;
+  font-size: 15px;
+  font-weight: lighter;
 }
-.redessociais{
-     padding-top: 15px;
-    margin-top: -36px;
-    margin-left: 1130px;
-    display: flex;
-    width: 139px;
-    height: 36px;
-
+.centro {
+  margin-left: 500px;
+  color: rgb(255, 255, 255);
+  padding-top: 17px;
+  margin-top: -33px;
+  font-size: 15px;
+  font-weight: lighter;
+}
+.redessociais {
+  padding-top: 15px;
+  margin-top: -36px;
+  margin-left: 1130px;
+  display: flex;
+  width: 139px;
+  height: 36px;
 }

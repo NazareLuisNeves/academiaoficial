@@ -1,9 +1,9 @@
 import React from 'react'
-import '../estilos/Body2.css'   
-import Contabilidadeefinancas from '../assets/Contabilidadeefinancas.png'
-import gestaobancaria from '../assets/gestaobancaria.png'
-import informatica from '../assets/informatica.png'
-import gestaoemanutencao from '../assets/gestaoemanutencao.png'
+import './../estilos/Body2.css'   
+import Contabilidadeefinancas from './../assets/Contabilidadeefinancas.png'
+import gestaobancaria from './../assets/gestaobancaria.png'
+import informatica from './../assets/informatica.png'
+import gestaoemanutencao from './../assets/gestaoemanutencao.png'
 
  function Body2() {
   return (
@@ -34,7 +34,8 @@ import gestaoemanutencao from '../assets/gestaoemanutencao.png'
      <p className="manutencao" >Gestão e <br/>Manutenção de...</p>
       <p className="data4" >30/09/2024</p>
         </div>
-        <p  class="setadireita1"> &gt; </p></section>
+        <p  className="setadireita1"> &gt; </p>
+        </section>
     </>
   )
 }

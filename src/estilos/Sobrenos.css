@@ -1,4 +1,497 @@
-.sobre{
-    margin-top: 10px;
-    margin-left: 400px;
+.sobre {
+   background-color: rgb(255, 254, 254);
+  font-family: 'Montserrat', 'Poppins' sans-serif;
+  
+}
+.missao1{
+  margin-top: 10px;
+  margin-left: 76px;
+  width: 101px;
+  height: 50px;
+  background-color: rgb(38, 86, 163);
+}
+.barraverde{
+  margin-top: 10px;
+  margin-left: 89px;
+  background-color: aqua;
+  width: 12px;
+  height: 50px;
+}
+.juntos{
+  margin-top: 59px;
+  margin-left: 15px;
+  width: 586px;
+  height: 314px;
+}
+.missaoimagem{
+  width: 112px;
+  height: 88px;
+  margin-top: 56px;
+  margin-left: 70px;
+}
+.missao{
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  margin-left: 6px;
+  white-space: nowrap;
+  margin-top: 100px;
+  display: flex;
+  border: none;
+  padding-top: 21px;
+  padding-right: 10px;
+  font-weight: bold;
+  margin-top: -59px;
+}
+.conteudo1{
+    color: rgb(3, 30, 72);
+  font-size: 16px;
+  margin-left: 75px;
+  white-space: nowrap;
+  margin-top: -2px;
+  display: flex;
+  border: none;
+  padding-top: 28px;
+  padding-right: 10px;
+  font-weight: lighter;
+  line-height: 1.4;
+}
+.visaoimagem{
+   width: 112px;
+  height: 88px;
+  margin-top: -300px;
+  margin-left: 352px;
+  display: flex;
+}
+.barraverde1{
+  margin-top: 10px;
+  margin-left: 72px;
+  background-color: aqua;
+  width: 12px;
+  height: 50px;
+}
+.visao1{
+  margin-top: 25px;
+  margin-left: 378px;
+  width: 84px;
+  height: 49px;
+  background-color: rgb(38, 86, 163);
+  
+}
+.visao{
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  margin-left: 6px;
+  white-space: nowrap;
+  margin-top: 100px;
+  display: flex;
+  border: none;
+  padding-top: 21px;
+  padding-right: 10px;
+  font-weight: bold;
+  margin-top: -59px;
+}
+.conteudo2{
+    color: rgb(3, 30, 72);
+  font-size: 16px;
+  margin-left: 1px;
+  white-space: nowrap;
+  margin-top: 8px;
+  display: flex;
+  border: none;
+  padding-top: 28px;
+  padding-right: 10px;
+  font-weight: lighter;
+  line-height: 1.4;
+}
+.valoresimagem{
+    width: 112px;
+    height: 88px;
+    margin-top: -151px;
+    margin-left: 667px;
+    display: flex;
+}
+.valores1{
+  margin-top: 12px;
+  margin-left: 692px;
+  width: 108px;
+  height: 50px;
+  background-color: rgb(38, 86, 163);
+}
+.valores{
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  margin-left: 12px;
+  white-space: nowrap;
+  margin-top: 100px;
+  display: flex;
+  border: none;
+  padding-top: 21px;
+  padding-right: 10px;
+  font-weight: bold;
+  margin-top: -59px;
+}
+.barraverde2{
+  margin-top: 10px;
+  margin-left: 96px;
+  background-color: aqua;
+  width: 12px;
+  height: 50px;
+}
+.bolinhas{
+  width: 13px;
+  height: 13px;
+  background-color: rgb(44, 95, 176);
+  border: 1px solid rgb(44, 95, 176);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 41px;
+}
+.bolinhas1{
+  width: 13px;
+  height: 13px;
+  background-color: rgb(44, 95, 176);
+  border: 1px solid rgb(44, 95, 176);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 18px;
+}
+.bolinhas2{
+  width: 13px;
+  height: 13px;
+  background-color: rgb(44, 95, 176);
+  border: 1px solid rgb(44, 95, 176);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 18px;
+}
+.bolinhas3{
+  width: 13px;
+  height: 13px;
+  background-color: rgb(44, 95, 176);
+  border: 1px solid rgb(44, 95, 176);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 18px;
+}
+.bolinhas4{
+  width: 13px;
+  height: 13px;
+  background-color: rgb(44, 95, 176);
+  border: 1px solid rgb(44, 95, 176);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 18px;
+}
+.conteudo3{
+    color: rgb(3, 30, 72);
+  font-size: 16px;
+  margin-left: 21px;
+  white-space: nowrap;
+  display: flex;
+  border: none;
+  padding-top: 28px;
+  padding-right: 10px;
+  font-weight: lighter;
+  line-height: 2.1;
+  margin-top: -178px;
+  display: flex;
+}
+.segundoitem{
+  color: rgb(3, 30, 72);
+  font-size: 16px;
+  margin-left: 21px;
+  white-space: nowrap;
+  display: flex;
+  border: none;
+  padding-top: 28px;
+  padding-right: 10px;
+  font-weight: lighter;
+  margin-top: -21px;
+  display: flex;
+}
+.terceiroitem{
+  color: rgb(3, 30, 72);
+  font-size: 16px;
+  margin-left: 21px;
+  white-space: nowrap;
+  display: flex;
+  border: none;
+  padding-top: 28px;
+  padding-right: 10px;
+  font-weight: lighter;
+  margin-top: -16px;
+  display: flex;
+}
+.quartoitem{
+  color: rgb(3, 30, 72);
+  font-size: 16px;
+  margin-left: 21px;
+  white-space: nowrap;
+  display: flex;
+  border: none;
+  padding-top: 28px;
+  padding-right: 10px;
+  font-weight: lighter;
+  margin-top: -15px;
+  display: flex;
+}
+.quintoitem{
+  color: rgb(3, 30, 72);
+  font-size: 16px;
+  margin-left: 21px;
+  white-space: nowrap;
+  display: flex;
+  border: none;
+  padding-top: 28px;
+  padding-right: 10px;
+  font-weight: lighter;
+  margin-top: -16px;
+  display: flex;
+}
+.posicionamentoimagem{
+    width: 112px;
+    height: 88px;
+    margin-top: -153px;
+    margin-left: 936px;
+    display: flex;
+}
+.posicionamento1{
+  margin-top: 12px;
+  margin-left: 960px;
+  width: 199px;
+  height: 50px;
+  background-color: rgb(38, 86, 163);
+}
+.barraverde3{
+  margin-top: 10px;
+  margin-left: 187px;
+  background-color: aqua;
+  width: 12px;
+  height: 50px;
+}
+.posicionamento{
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  margin-left: 12px;
+  white-space: nowrap;
+  margin-top: 100px;
+  display: flex;
+  border: none;
+  padding-top: 21px;
+  padding-right: 10px;
+  font-weight: bold;
+  margin-top: -59px;
+}
+.conteudo4{
+    color: rgb(3, 30, 72);
+  font-size: 16px;
+  margin-left: 1px;
+  white-space: nowrap;
+  margin-top: 8px;
+  display: flex;
+  border: none;
+  padding-top: 28px;
+  padding-right: 10px;
+  font-weight: lighter;
+  line-height: 1.4;
+}
+.academia2{
+  margin-top: -10px;
+  margin-left: 563px;
+  color: rgb(9, 74, 128);
+  font-size: 20px;
+}
+.nossahistoria{
+  margin-top: -27px;
+  margin-left: 525px;
+  color: rgb(3, 30, 72);
+  font-size: 26px;
+  line-height: 1.8;
+}
+.voltar{
+  background-color:rgba(216, 217, 219, 0.374);
+  color: rgb(3, 50, 89);
+  border-radius: 50px;
+  width: 33px;
+  height: 33px;
+  margin-top: 73px;
+  margin-left: 1260px;
+  font-weight: bolder;
+  font-size: 20px;
+  display: flex;
+  position: absolute;
+  padding-left: 9px;
+  padding-top: 5px;
+}
+.avancar{
+  background-color: rgba(216, 217, 219, 0.374);
+  color: rgb(3, 50, 89);
+  border-radius: 50px;
+  width: 33px;
+  height: 33px;
+  margin-top: 73px;
+  margin-left: -10px;
+  font-weight: bolder;
+  font-size: 20px;
+  display: flex;
+  position: absolute;
+  padding-left: 9px;
+  padding-top: 5px;
+}
+.ano1{
+  color: rgb(3, 50, 89);
+  margin-top: 28px;
+  margin-left: 52px;
+  font-weight: lighter;
+   font-size: 23px;
+}
+.ano2{
+   color: rgb(3, 50, 89);
+  margin-top: -58px;
+  margin-left: 470px;
+  font-weight: lighter;
+  font-size: 23px;
+}
+.ano3{
+   color: rgb(3, 50, 89);
+  margin-top: -56px;
+  margin-left: 909px;
+  font-weight: lighter;
+   font-size: 23px;
+}
+.linha{
+  background-color:  rgba(228, 234, 243, 0.374);
+  width: 1208px;
+  height: 9px;
+  border-radius: 100px;
+  margin-top: 35px;
+ margin-left: 70px;
+}
+.calendario{
+  width: 42px;
+  height: 42px;
+  background-color: rgb(44, 95, 176);
+  border: 1px solid  rgb(44, 95, 176);
+  border-radius: 500px;
+  margin-left: 50px;
+  margin-top: -26px;
+}
+.calendarioimagem{
+    width: 25px;
+    height: 23px;
+    margin-left:  59px;
+    margin-top: -32px;
+    display: flex;
+}
+.calendario2{
+  width: 42px;
+  height: 42px;
+  background-color: rgb(44, 95, 176);
+  border: 1px solid  rgb(44, 95, 176);
+  border-radius: 500px;
+  margin-left: 474px;
+  margin-top: -34px;
+}
+.calendarioimagem2{
+    width: 25px;
+    height: 23px;
+    margin-left:  483px;
+    margin-top: -32px;
+    display: flex;
+}
+.calendario3{
+  width: 42px;
+  height: 42px;
+  background-color: rgb(44, 95, 176);
+  border: 1px solid  rgb(44, 95, 176);
+  border-radius: 500px;
+  margin-left: 909px;
+  margin-top: -34px;
+}
+.calendarioimagem3{
+    width: 25px;
+    height: 23px;
+    margin-left:  918px;
+    margin-top: -32px;
+    display: flex;
+}
+.container1{
+   width: 356px;
+  height: 356px;
+  border: none;
+  border-radius: 30px;
+  
+  margin-top: 39px;
+  margin-left: 52px;
+  background-color: rgba(243, 243, 243, 0.374);
+}
+.descricao1{
+  margin-top: -10px;
+  margin-left: 15px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+  font-weight: lighter;
+}
+.grupoum{
+   width: 321px;
+  height: 213px;
+  border-radius: 20px;
+  margin-left: 18px;
+  margin-top: 20px;
+}
+.container2{
+    width: 356px;
+    height: 356px;
+    border: none;
+    border-radius: 30px;
+    margin-top: -328px;
+    margin-left: 472px;
+    background-color: rgba(243, 243, 243, 0.374);
+}
+.descricao2{
+  margin-top: -10px;
+  margin-left: 21px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+  font-weight: lighter;
+}
+.grupodois{
+    width: 321px;
+    height: 213px;
+    border-radius: 20px;
+    margin-left: 18px;
+    margin-top: 20px;
+}
+.container3{
+    width: 356px;
+    height: 356px;
+    border: none;
+    border-radius: 30px;
+    margin-top: -382px;
+    margin-left: 892px;
+    background-color: rgba(243, 243, 243, 0.374);
+}
+.grupotres{
+    width: 321px;
+    height: 213px;
+    border-radius: 20px;
+    margin-left: 18px;
+    margin-top: 20px;
+}
+.descricao3{
+  margin-top: -3px;
+  margin-left: 21px;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+  font-weight: lighter;
 }

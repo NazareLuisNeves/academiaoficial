@@ -1,10 +1,10 @@
 .fichamaior {
   width: 1065px;
   height: 115px;
-  background-color: rgb(38, 86, 163);
-  margin-top: 73px;
+  background-color: rgb(33, 94, 192);
+  margin-top: 53px;
   position: relative;
-  margin-left: 212px;
+  margin-left: 227px;
 }
 .fichamenor {
   width: 14px;
@@ -28,11 +28,8 @@ p {
 h1 {
   color: white;
   font-size: 30px;
-  margin-left: 349px;
-  white-space: nowrap;
+  margin-left: 324px;
   margin-top: 100px;
-  display: flex;
-  border: none;
   padding-top: 28px;
   padding-right: 10px;
   font-weight: bold;

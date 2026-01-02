@@ -1,0 +1,46 @@
+
+.PCA{
+    margin-top: 59px;
+  margin-left: 15px;
+  width: 620px;
+  height: 385px;
+}
+.nome{
+    font-size: 16px;
+    color: rgb(3, 50, 89);
+    margin-top: -16px;
+    margin-left: 661px;
+    font-weight: bold;
+}
+.nome2{
+    font-size: 16px;
+    color: rgb(45, 98, 179);
+    margin-top: -19px;
+    margin-left: 661px;
+    font-weight: lighter;
+}
+.link{
+    font-size: 14px;
+    color: rgb(3, 50, 89);
+    font-weight: bold;
+    margin-left: 661px;
+    margin-top: 10px;
+}
+.linkedin{
+    background-color: rgb(10, 127, 194);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    width: 100px;
+    height: 53px;
+    font-size: 14px;
+    margin-left: 661px;
+    margin-top: 58px;
+    padding-left: 22px;
+}
+.linkedinimagem{
+    width: 16px;
+    height: 16px;
+    margin-top: -38px;
+    margin-left: 672px;
+}

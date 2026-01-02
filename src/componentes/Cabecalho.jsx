@@ -1,12 +1,12 @@
 import React from 'react'
-import '../estilos/Cabecalho.css'
+import estilos from '../estilos/Cabecalho.module.css'
 
  function Cabecalho({titulo, texto}) {
   return (
-    <div className='fichamaior'>
-        <h1>{titulo}</h1>
-        <p>{texto}</p>
-        <div className='fichamenor'> </div>
+    <div className={estilos.fichamaior}>
+        <h1 className={estilos.titulo}>{titulo}</h1>
+        <p className={estilos.texto}>{texto}</p>
+        <div className={estilos.fichamenor}> </div>
     </div>
   )
 }

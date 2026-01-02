@@ -1,12 +1,12 @@
 import React from 'react'
-import '../estilos/Paragrafo.css'
+import estilos from'../estilos/Paragrafo.module.css'
 
-function Paragrafo({titulo, subtitulo, conteudo}) {
+function Paragrafo({titulo, subtitulo, conteudo, style}) {
   return (
-    <div>
-        <h2 className='titulo'>{titulo}</h2>
-        <h1 className='subtitulo'>{subtitulo}</h1>
-        <p className='conteudo'>{conteudo}</p>
+    <div style={style?.estilosparagrafo}>
+        <h2 className={estilos.titulo} style={style?.titulo}>{titulo}</h2>
+        <h1 className={estilos.subtitulo} style={style?.subtitulo}>{subtitulo}</h1>
+        <p className={estilos.conteudo} style={style?.conteudo}>{conteudo}</p>
     </div>
   )
 }

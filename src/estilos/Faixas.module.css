@@ -1,0 +1,71 @@
+.mesadaassembleiageralazul{
+    width: 264px;
+    height: 46px;
+    background-color:  rgb(33, 94, 192);
+    margin-top: 105px;
+    margin-left: 21px;
+}
+.mesadaassembleiageralverde{
+    width: 14px;
+    height: 46px;
+    background-color:rgb(0, 251, 251);
+    margin-left: 250px;
+   position: relative;
+}
+.mesadaassembleiageraltexto{
+    color: rgb(255, 255, 255);
+  font-size: 18px;
+  margin-left: -239px;
+  margin-top: 100px;
+  padding-top: 12px;
+  padding-right: 10px;
+  font-weight: bold;
+
+}
+.esfera1{
+    width: 39px;
+  height: 39px;
+  background-color: rgb(37, 121, 189);
+  border: 1px solid rgb(37, 121, 189);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 282px;
+  margin-top: -40px;
+}
+.esfera2{
+    width: 39px;
+  height: 39px;
+  background-color: rgb(48, 142, 205);
+  border: 1px solid rgb(48, 142, 205);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 333px;
+  margin-top: -40px;
+}
+.esfera3{
+    width: 39px;
+  height: 39px;
+  background-color: rgb(61, 166, 234);
+  border: 1px solid rgb(61, 166, 234);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 384px;
+  margin-top: -40px;
+}
+.imagem1-css{
+     width: 140px;
+  height: 130px;
+  border-radius: 20px;
+  margin-left: 18px;
+  margin-top: 20px;
+}
+.regua1{
+  background-color: rgb(33, 94, 192);
+  width: 100px;
+  height: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+}

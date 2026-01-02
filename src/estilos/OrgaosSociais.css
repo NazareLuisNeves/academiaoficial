@@ -1,0 +1,766 @@
+.mesadaassembleiageralazul{
+    width: 289px;
+    height: 46px;
+    background-color:  rgb(33, 94, 192);
+    margin-top: 105px;
+    margin-left: 21px;
+}
+.mesadaassembleiageralverde{
+    width: 14px;
+    height: 46px;
+    background-color:rgb(0, 251, 251);
+    margin-left: 275px;
+   position: relative;
+}
+.mesadaassembleiageraltexto{
+    color: rgb(255, 255, 255);
+  font-size: 18px;
+  margin-left: -250px;
+  margin-top: 100px;
+  padding-top: 12px;
+  padding-right: 10px;
+  font-weight: bold;
+
+}
+.esfera1{
+    width: 39px;
+  height: 39px;
+  background-color: rgb(37, 121, 189);
+  border: 1px solid rgb(37, 121, 189);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 313px;
+  margin-top: -40px;
+}
+.esfera2{
+    width: 39px;
+  height: 39px;
+  background-color: rgb(48, 142, 205);
+  border: 1px solid rgb(48, 142, 205);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 364px;
+  margin-top: -39px;
+}
+.esfera3{
+    width: 39px;
+  height: 39px;
+  background-color:  rgb(37, 121, 189);
+  border: 1px solid  rgb(37, 121, 189);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 414px;
+  margin-top: -39px;
+}
+.josepaiva{
+     width: 205px;
+  height: 217px;
+  border-radius: 20px;
+  margin-left: 32px;
+  margin-top: 55px;
+}
+.nome{
+    color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.cargo{
+    color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 40px;
+    margin-top: 1px;
+    font-weight: bold;
+}
+.regua1{
+  background-color: rgb(33, 94, 192);
+  width: 233px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.mesadaassembleiageralazul2{
+    width: 289px;
+    height: 46px;
+    background-color:  rgb(33, 94, 192);
+    margin-top: 105px;
+    margin-left: 21px;
+}
+.mesadaassembleiageralverde2{
+    width: 14px;
+    height: 46px;
+    background-color:rgb(0, 251, 251);
+    margin-left: 275px;
+   position: relative;
+}
+.mesadaassembleiageraltexto2{
+     color: rgb(255, 255, 255);
+  font-size: 18px;
+  margin-left: -250px;
+  margin-top: 100px;
+  padding-top: 12px;
+  padding-right: 10px;
+  font-weight: bold;
+
+}
+.jessicavasconcelos{
+     width: 205px;
+  height: 217px;
+  border-radius: 20px;
+  margin-left: 279px;
+  margin-top: -313px;
+  display: block;
+}
+.nome2{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 289px;
+    margin-top: 13px;
+}
+.cargo2{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 289px;
+    margin-top: -22px;
+    font-weight: bold;
+}
+.regua2{
+     background-color: rgb(33, 94, 192);
+  width: 233px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 274px;
+}
+.mesadaassembleiageralazul3{
+     width: 289px;
+    height: 46px;
+    background-color:  rgb(33, 94, 192);
+    margin-top: 72px;
+    margin-left: 21px;
+}
+.mesadaassembleiageralverde3{
+      width: 14px;
+    height: 46px;
+    background-color:rgb(0, 251, 251);
+    margin-left: 275px;
+   position: relative;
+}
+.mesadaassembleiageraltexto3{
+    color: rgb(255, 255, 255);
+  font-size: 18px;
+  margin-left: -250px;
+  margin-top: 100px;
+  padding-top: 12px;
+  padding-right: 10px;
+  font-weight: bold;
+}
+.noelmaviegas{
+     width: 205px;
+  height: 217px;
+  border-radius: 20px;
+  margin-left: 23px;
+  margin-top: 54px;
+  display: block;
+}
+.nome3{
+     color: rgb(6, 38, 90);
+    font-size: 17px;
+    font-weight: lighter;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+.cargo3{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 35px;
+    margin-top: -22px;
+    font-weight: bold;
+}
+.regua3{
+     background-color: rgb(33, 94, 192);
+  width: 207px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 23px;
+}
+.luisfernandes{
+     width: 205px;
+  height: 217px;
+  border-radius: 20px;
+  margin-left: 275px;
+  margin-top: -306px;
+  display: block;
+}
+.nome4{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 275px;
+    margin-top: 13px;
+}
+.cargo4{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 275px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.regua4{
+     background-color: rgb(33, 94, 192);
+  width: 241px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 251px;
+}   
+.kamiamadeira{
+        width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 530px;
+    margin-top: -328px;
+    display: block;
+}
+.nome5{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 530px;
+    margin-top: 13px;
+}
+.cargo5{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 530px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.regua5{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 11px;
+  margin-left: 516px;
+}
+.andryrodrigues{
+        width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 785px;
+    margin-top: -328px;
+    display: block;
+}
+.nome6{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 785px;
+    margin-top: 13px;
+}
+.cargo6{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 785px;
+    margin-top: 13px;
+    font-weight: bold;
+}
+.regua6{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 771px;
+}
+.domingosbunga{
+        width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 1041px;
+    margin-top: -324px;
+    display: block;
+}
+.nome7{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 1043px;
+    margin-top: 13px;
+}
+.cargo7{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 1043px;
+    margin-top: 13px;
+    font-weight: bold;
+}
+.regua7{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 9px;
+  margin-left: 1027px;
+}
+.irenegraca{
+        width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 23px;
+    margin-top: 73px;
+    display: block;
+}
+.nome8{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 23px;
+    margin-top: 13px;
+}
+.cargo8{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 23px;
+    margin-top: -24px;
+    font-weight: bold;
+}
+.regua8{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 14px;
+}
+.carlaqueiroz{
+     width: 205px;
+  height: 217px;
+  border-radius: 20px;
+  margin-left: 275px;
+  margin-top: -287px;
+  display: block;
+}
+.nome9{
+    color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 275px;
+    margin-top: 13px;
+}
+.cargo9{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 275px;
+    margin-top: -24px;
+    font-weight: bold;
+}
+.regua9{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 267px;
+}
+.vitorfabrisio{
+     width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 23px;
+    margin-top: 40px;
+    display: block;
+}
+.nome10{
+    color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 23px;
+    margin-top: 13px;
+}
+.cargo10{
+        color: rgb(38, 104, 211);
+        font-size: 15px;
+        margin-left: 23px;
+        margin-top: -24px;
+        font-weight: bold;
+}
+.regua10{
+        background-color: rgb(33, 94, 192);
+    width: 232px;
+    height: 6px;
+    margin-top: 10px;
+    margin-left: 14px;
+}
+.mesadaassembleiageralazul4{
+    width: 143px;
+    height: 46px;
+    background-color:  rgb(33, 94, 192);
+    margin-top: 72px;
+    margin-left: 21px;
+}
+.mesadaassembleiageralverde4{
+    width: 14px;
+    height: 46px;
+    background-color:rgb(0, 251, 251);
+    margin-left: 129px;
+   position: relative;
+}
+.mesadaassembleiageraltexto4{
+    color: rgb(255, 255, 255);
+  font-size: 18px;
+  margin-left: -119px;
+  margin-top: 100px;
+  padding-top: 12px;
+  padding-right: 10px;
+  font-weight: bold;
+}
+.esfera4{
+     width: 39px;
+  height: 39px;
+  background-color: rgb(37, 121, 189);
+  border: 1px solid rgb(37, 121, 189);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 169px;
+  margin-top: -40px;
+}
+.esfera5{
+     width: 39px;
+  height: 39px;
+  background-color: rgb(48, 142, 205);
+  border: 1px solid rgb(48, 142, 205);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 220px;
+  margin-top: -39px;
+}
+.esfera6{
+ width: 39px;
+  height: 39px;
+  background-color:  rgb(37, 121, 189);
+  border: 1px solid  rgb(37, 121, 189);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 271px;
+  margin-top: -39px;
+}
+.mesadaassembleiageralazul5{
+    width: 212px;
+    height: 46px;
+    background-color:  rgb(33, 94, 192);
+    margin-top: 72px;
+    margin-left: 21px; 
+}
+.mesadaassembleiageralverde5{
+    width: 14px;
+    height: 46px;
+    background-color:rgb(0, 251, 251);
+    margin-left: 198px;
+   position: relative;
+}
+.mesadaassembleiageraltexto5{
+    color: rgb(255, 255, 255);
+  font-size: 18px;
+  margin-left: -188px;
+  margin-top: 100px;
+  padding-top: 12px;
+  padding-right: 10px;
+  font-weight: bold;
+}
+.esfera7{
+      width: 39px;
+  height: 39px;
+  background-color: rgb(37, 121, 189);
+  border: 1px solid rgb(37, 121, 189);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 239px;
+  margin-top: -40px;
+}
+.esfera8{
+        width: 39px;
+    height: 39px;
+    background-color: rgb(48, 142, 205);
+    border: 1px solid rgb(48, 142, 205);
+    border-radius: 500px;
+    align-items: center;
+    display: flex;
+    margin-left: 290px;
+    margin-top: -39px;
+}
+.esfera9{
+     width: 39px;
+  height: 39px;
+  background-color:  rgb(37, 121, 189);
+  border: 1px solid  rgb(37, 121, 189);
+  border-radius: 500px;
+  align-items: center;
+  display: flex;
+  margin-left: 340px;
+  margin-top: -39px;
+}
+.alexandremorgad{
+     width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 23px;
+    margin-top: 40px;
+    display: block;
+}
+.nome11{
+    color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 23px;
+    margin-top: 13px;
+}
+.cargo11{
+        color: rgb(38, 104, 211);
+        font-size: 15px;
+        margin-left: 23px;
+        margin-top: -13px;
+        font-weight: bold;
+}
+.regua11{
+        background-color: rgb(33, 94, 192);
+    width: 232px;
+    height: 6px;
+    margin-top: 14px;
+    margin-left: 14px;
+}
+.inokcelina{
+     width: 205px;
+  height: 217px;
+  border-radius: 20px;
+  margin-left: 275px;
+  margin-top: -321px;
+  display: block;
+}
+.nome12{
+   color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 275px;
+    margin-top: 13px;
+}
+.cargo12{
+    color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 275px;
+    margin-top: 9px;
+    font-weight: bold;
+}
+.regua12{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 267px;
+}
+.joseotavio{
+     width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 530px;
+    margin-top: -320px;
+    display: block;
+}
+.nome13{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 530px;
+    margin-top: 13px;
+}
+.cargo13{
+        color: rgb(38, 104, 211);
+        font-size: 15px;
+        margin-left: 530px;
+        margin-top: -19px;
+        font-weight: bold;
+}
+.regua13{
+        background-color: rgb(33, 94, 192);
+    width: 232px;
+    height: 6px;
+    margin-top: 10px;
+    margin-left: 516px;
+}
+.luisfilipe{
+     width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 785px;
+    margin-top: -330px;
+    display: block;
+}
+.nome14{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 785px;
+    margin-top: 13px;
+}
+.cargo14{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 785px;
+    margin-top: 13px;
+    font-weight: bold;
+}
+.regua14{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 771px;
+}
+.mariobarber{
+      width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 1041px;
+    margin-top: -348px;
+    display: block;
+}
+.nome15{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 1043px;
+    margin-top: 13px;
+}
+.cargo15{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 1043px;
+    margin-top: 36px;
+    font-weight: bold;
+}
+.regua15{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 9px;
+  margin-left: 1027px;
+}
+.anaregina{
+     width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 23px;
+    margin-top: 40px;
+    display: block;
+}
+.noelmaviegas2{
+   width: 205px;
+  height: 217px;
+  border-radius: 20px;
+  margin-left: 275px;
+  margin-top: -322px;
+  display: block;
+}
+.nome16{
+    color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 23px;
+    margin-top: 13px;
+}
+.cargo16{
+        color: rgb(38, 104, 211);
+        font-size: 15px;
+        margin-left: 23px;
+        margin-top: -13px;
+        font-weight: bold;
+}
+.regua16{
+        background-color: rgb(33, 94, 192);
+    width: 232px;
+    height: 6px;
+    margin-top: 14px;
+    margin-left: 14px;
+}
+.nome17{
+ color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 275px;
+    margin-top: 13px;
+}
+.cargo17{
+    color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 275px;
+    margin-top: 9px;
+    font-weight: bold;
+}
+.regua17{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 11px;
+  margin-left: 267px;
+}
+.josepaiva2{
+     width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 530px;
+    margin-top: -322px;
+    display: block;
+}
+.nome18{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 530px;
+    margin-top: 13px;
+}
+.cargo18{
+        color: rgb(38, 104, 211);
+        font-size: 15px;
+        margin-left: 530px;
+        margin-top: 16px;
+        font-weight: bold;
+}
+.regua18{
+        background-color: rgb(33, 94, 192);
+    width: 232px;
+    height: 6px;
+    margin-top: 9px;
+    margin-left: 516px;
+}
+.carlosduarte{
+     width: 205px;
+    height: 217px;
+    border-radius: 20px;
+    margin-left: 785px;
+    margin-top: -330px;
+    display: block;
+}
+.nome19{
+     color: rgb(6, 38, 90);
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 785px;
+    margin-top: 13px;
+}
+.cargo19{
+     color: rgb(38, 104, 211);
+    font-size: 15px;
+     margin-left: 785px;
+    margin-top: -4px;
+    font-weight: bold;
+}
+.regua19{
+     background-color: rgb(33, 94, 192);
+  width: 232px;
+  height: 6px;
+  margin-top: 10px;
+  margin-left: 771px;
+}

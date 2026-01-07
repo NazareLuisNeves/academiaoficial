@@ -1,0 +1,174 @@
+.carreiraimagem {
+  width: 748px;
+  height: 470px;
+  margin: 50px auto 0 auto;
+  display: block;
+}
+
+.titulo1,
+.titulo2,
+.titulo3 {
+  text-align: center;
+  color: rgb(25, 12, 67);
+}
+
+.titulo1 {
+  font-weight: lighter;
+  margin-top: 16px;
+  color: rgb(56, 120, 190);
+}
+.titulo2 {
+  font-size: 32px;
+  margin-top: -15px;
+  margin-left: 9px;
+}
+.titulo3 {
+  font-size: 20px;
+  line-height: 1.4;
+  margin-top: -15px;
+  margin-left: 232px;
+}
+
+.formulario {
+  width: 900px;
+  margin: 64px auto;
+  margin-left: 338px;
+}
+
+.colunas-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.coluna {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-top: 91px;
+  margin-left: -322px;
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.campo label {
+  margin-bottom: 6px;
+  font-size: 15px;
+  color: rgb(6, 51, 109);
+}
+.campo input,
+.campo select {
+  width: 279px;
+  padding: 8px 12px;
+  border-radius: 30px;
+  background-color: rgba(194, 212, 237, 0.374);
+  height: 47px;
+  font-size: 16px;
+  border: none;
+}
+.campo input.primeira-input {
+  width: 614px;
+}
+.borda1 {
+  width: 40px;
+  height: 47px;
+  margin-top: 10px;
+  margin-left: 338px;
+  background-color: rgb(6, 51, 109);
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  display: block;
+}
+.campo.checkbox {
+  flex-direction: row;
+  align-items: center;
+}
+.campo input.anexar {
+  width: 600px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(168, 171, 175);
+}
+.explorar {
+  position: absolute;
+  margin-left: 601px;
+  margin-top: 29px;
+  width: 37px;
+  height: 41px;
+  background-color: rgb(237, 237, 237);
+  border-radius: 500px;
+  color: rgb(171, 170, 173);
+  font-size: 16px;
+  text-align: center;
+  line-height: 24px;
+  cursor: pointer;
+  padding: 8px 0 0 0;
+  border: 1px solid rgb(200, 199, 202);
+}
+.campo.checkbox label {
+  margin-bottom: 0;
+  margin-left: 51px;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  color: rgb(200, 199, 202);
+}
+.campo.checkbox {
+  width: 327px;
+  height: 59px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border: 1px solid rgb(200, 199, 202);
+  align-items: center;
+}
+.campo.checkbox input {
+  width: 20px;
+  height: 20px;
+  margin-left: -307px;
+  margin-top: -12px;
+  display: block;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.campo-checkbox2 {
+  width: 308px;
+  height: 59px;
+  border-radius: 5px;
+  margin-top: -79px;
+  margin-left: 337px;
+  border: 1px solid rgb(200, 199, 202);
+  align-items: center;
+  display: flex;
+}
+.campo-checkbox2 label {
+  margin-bottom: 0;
+  margin-left: 51px;
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  color: rgb(200, 199, 202);
+}
+.campo-checkbox2 input {
+  width: 20px;
+  height: 20px;
+  margin-left: -291px;
+  margin-top: -12px;
+  display: block;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.candidatura {
+  margin-top: 20px;
+  padding: 12px 24px;
+  border-radius: 30px;
+  border: none;
+  background-color: #07dfdf;
+  color: rgb(25, 12, 67);
+  font-size: 15px;
+  cursor: pointer;
+  font-weight: 403;
+  width: 630px;
+  margin-left: 12px;
+}

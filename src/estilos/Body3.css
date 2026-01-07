@@ -1,6 +1,6 @@
 .body3 {
   background-color: rgb(255, 254, 254);
-  font-family: 'Montserrat', 'Poppins' sans-serif;
+  font-family: 'Roboto', Sans-serif;
   margin-top: 45px;
 }
 .moco {
@@ -44,7 +44,7 @@
 }
 .sobrenos {
   color: rgb(45, 98, 179);
-  font-size: 18px;
+  font-size: 20px;
   margin-left: 623px;
   margin-top: -149px;
   font-weight: lighter;
@@ -53,9 +53,9 @@
   margin-left: 621px;
   margin-top: -28px;
   color: rgb(3, 50, 89);
-  font-size: 29px;
+  font-size: 32px;
 }
-.umacademia:hover{
+.umacademia:hover {
   background-color: rgb(3, 50, 89);
   color: rgb(255, 254, 254);
 }
@@ -63,7 +63,7 @@
   margin-left: 624px;
   margin-top: -5px;
   color: rgb(0, 47, 86);
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.9;
   font-weight: lighter;
 }

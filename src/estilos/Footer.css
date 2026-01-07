@@ -1,5 +1,5 @@
 .geral {
-  font-family: 'Montserrat', 'Poppins' sans-serif;
+  font-family: 'Roboto', Sans-serif;
 }
 .footer {
   width: auto;
@@ -7,7 +7,6 @@
   height: 400px;
   background-color: rgba(221, 232, 236, 0.726);
   margin-top: 70px;
-  
 }
 .icone {
   width: 179px;
@@ -23,42 +22,42 @@
   margin-top: -8px;
   line-height: 1.6;
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: 400;
 }
 .titulo {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 18px;
   margin-left: 181px;
   margin-top: -32px;
   color: rgb(3, 30, 72);
 }
-.sobrenosfooter{
-  font-weight: bold;
-   margin-left: 181px;
+.sobrenosfooter {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -32px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
-.mensagemdapr{
-   font-weight: bold;
-   margin-left: 181px;
+.mensagemdapr {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -35px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
-.orgaossoci{
-   font-weight: bold;
-   margin-left: 181px;
+.orgaossoci {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -35px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
-.carreiras{
-   font-weight: bold;
-   margin-left: 181px;
+.carreiras {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -35px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
 .grupo1 {
   margin-left: 181px;
@@ -68,77 +67,76 @@
 }
 .grupo2 {
   margin-left: 368px;
-  margin-top: -176px;
+  margin-top: -197px;
   color: rgb(3, 30, 72);
   font-size: 15px;
 }
 .atalhos {
   font-weight: bold;
-  font-size: 15px;
-   margin-left: 181px;
+  font-size: 18px;
+  margin-left: 181px;
   color: rgb(3, 30, 72);
-  
 }
-.iniciativas{
-   font-weight: bold;
-   margin-left: 181px;
+.iniciativas {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -33px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
-.publicacoes{
-   font-weight: bold;
-   margin-left: 181px;
+.publicacoes {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -32px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
-.espacos{
-   font-weight: bold;
-   margin-left: 181px;
+.espacos {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -20px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
 .grupo3 {
   margin-left: 518px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
 .qualidade {
   font-weight: bold;
-  font-size: 15px;
-   margin-left: 181px;
-  margin-top: -150px;
+  font-size: 18px;
+  margin-left: 181px;
+  margin-top: -166px;
   color: rgb(3, 30, 72);
 }
-.politicaQualidade{
-   font-weight: bold;
-   margin-left: 181px;
+.politicaQualidade {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -32px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
-.certificado{
-   font-weight: bold;
-   margin-left: 181px;
+.certificado {
+  font-weight: 400;
+  margin-left: 181px;
   margin-top: -31px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 17px;
 }
 .contatos {
   margin-left: 932px;
-  margin-top: -109px;
+  margin-top: -123px;
   color: rgb(3, 30, 72);
   font-size: 18px;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 18px;
 }
 .avenida {
   margin-left: 948px;
   margin-top: -18px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 16px;
 }
 .resto {
   margin-left: 913px;
@@ -151,38 +149,38 @@
   margin-left: 948px;
   margin-top: -34px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 16px;
 }
 .number {
   margin-left: 948px;
   margin-top: -35px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 16px;
 }
 .email {
   margin-left: 948px;
   margin-top: -37px;
   color: rgb(3, 30, 72);
-  font-size: 15px;
+  font-size: 16px;
 }
 .cincobolinhas {
   width: 400px;
   height: 86px;
-  margin-left: 878px;
+  margin-left: 862px;
   margin-top: 18px;
   display: flex;
 }
 .final {
-  width: 1280px;
+  width: 1265px;
   height: 43px;
   background-color: rgb(0, 86, 185);
-  margin-top: 84px;
+  margin-top: 61px;
 }
 .politica {
   margin-left: 20px;
   color: white;
   padding-top: 11px;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: lighter;
 }
 .centro {
@@ -190,13 +188,13 @@
   color: rgb(255, 255, 255);
   padding-top: 17px;
   margin-top: -33px;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: lighter;
 }
 .redessociais {
   padding-top: 15px;
   margin-top: -36px;
-  margin-left: 1130px;
+  margin-left: 1122px;
   display: flex;
   width: 139px;
   height: 36px;

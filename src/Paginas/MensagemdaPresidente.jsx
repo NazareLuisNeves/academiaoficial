@@ -8,14 +8,20 @@ import PCA from '../assets/PCA.png'
 import Bolinha from '../componentes/Bolinha'
 import linkedin from '../assets/linkedin.png'
 
- function MensagemdaPresidente() {
+function MensagemdaPresidente() {
   return (
     <>
-    <Header/>
-    <section className='mensagempresidente'>
-      <Cabecalho titulo="Mensagem da Presidente" texto="Academia BAI &gt; Mensagem da Presidente"/>
-      <img src={PCA} alt="" className='PCA' />
-      <Paragrafo titulo="Academia BAI" subtitulo="Mensagem da PCA." conteudo="	
+      <Header />
+      <section className="mensagempresidente">
+        <Cabecalho
+          titulo="Mensagem da Presidente"
+          texto="Academia BAI &gt; Mensagem da Presidente"
+        />
+        <img src={PCA} alt="" className="PCA" />
+        <Paragrafo
+          titulo="Academia BAI"
+          subtitulo="Mensagem da PCA"
+          conteudo="	
 
 Uma instituição de ensino, tal como qualquer outra organização, não é um projecto concluído, sobretudo quando estamos inseridos num contexto global e local tão dinâmico, incerto, competitivo e exigente. 
 
@@ -41,19 +47,20 @@ A nossa +akademia é o filho mais novo que trazemos como novidade, fundamentalme
 
 Contem connosco sempre
 
-Somos uma Academia de Vida e para a Vida
-."/>
-<p className='nome'>Noelma Viegas D'Abreu</p>
-<p className='nome2'>PCA - Academia BAI</p>
-<a href="" className='link'>VER BIOGRAFIA</a>
-<button className='linkedin'> LinkedIn</button>
-<img src={linkedin} alt="" className='linkedinimagem' />
+Somos uma Academia de Vida e para a Vida."
+        />
+        <p className="nome">Noelma Viegas D'Abreu</p>
+        <p className="nome2">PCA - Academia BAI</p>
+        <a href="" className="link">
+          VER BIOGRAFIA
+        </a>
+        <button className="linkedin"> LinkedIn</button>
+        <img src={linkedin} alt="" className="linkedinimagem" />
 
-      <Bolinha/>
-    </section>
-    <Footer/>
+        <Bolinha />
+      </section>
+      <Footer />
     </>
   )
 }
 export default MensagemdaPresidente
-

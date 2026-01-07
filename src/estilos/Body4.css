@@ -1,6 +1,6 @@
 .body4 {
   background-color: rgb(255, 254, 254);
-  font-family: 'Montserrat', 'Poppins' sans-serif;
+  font-family: 'Roboto', Sans-serif;
 }
 .academiabai {
   color: rgb(45, 98, 179);
@@ -20,7 +20,7 @@
   font-size: 14px;
   margin-top: -9px;
   line-height: 1.6;
-  font-weight: lighter;
+  font-weight: 400;
 }
 .rodadasimagens {
   margin-left: 670px;

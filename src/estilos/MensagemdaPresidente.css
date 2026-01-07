@@ -1,46 +1,55 @@
-
-.PCA{
-    margin-top: 59px;
+.PCA {
+  margin-top: 59px;
   margin-left: 15px;
-  width: 620px;
+  width: 607px;
   height: 385px;
+  font-family: 'Roboto', Sans-serif;
 }
-.nome{
-    font-size: 16px;
-    color: rgb(3, 50, 89);
-    margin-top: -16px;
-    margin-left: 661px;
-    font-weight: bold;
+.nome {
+  font-size: 16px;
+  color: rgb(3, 50, 89);
+  margin-top: -16px;
+  margin-left: 661px;
+  font-weight: bold;
+  font-family: 'Roboto', Sans-serif;
 }
-.nome2{
-    font-size: 16px;
-    color: rgb(45, 98, 179);
-    margin-top: -19px;
-    margin-left: 661px;
-    font-weight: lighter;
+.nome2 {
+  font-size: 16px;
+  color: rgb(24, 142, 197);
+  margin-top: -29px;
+  margin-left: 661px;
+  font-weight: 400;
+  font-family: 'Roboto', Sans-serif;
+  margin-bottom: 15px;
 }
-.link{
-    font-size: 14px;
-    color: rgb(3, 50, 89);
-    font-weight: bold;
-    margin-left: 661px;
-    margin-top: 10px;
+.link {
+  font-size: 16px;
+  color: rgb(3, 50, 89);
+  font-weight: bold;
+  margin-left: 661px;
+  margin-top: 10px;
+  font-family: 'Roboto', Sans-serif;
 }
-.linkedin{
-    background-color: rgb(10, 127, 194);
-    color: white;
-    border: none;
-    border-radius: 8px;
-    width: 100px;
-    height: 53px;
-    font-size: 14px;
-    margin-left: 661px;
-    margin-top: 58px;
-    padding-left: 22px;
+.linkedin {
+  background-color: rgb(10, 127, 194);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  width: 123px;
+  height: 53px;
+  font-size: 16px;
+  margin-left: 661px;
+  margin-top: 33px;
+  padding: 17px 0 0 44px;
+  font-family: 'Roboto', Sans-serif;
+  display: flex;
+  position: absolute;
 }
-.linkedinimagem{
-    width: 16px;
-    height: 16px;
-    margin-top: -38px;
-    margin-left: 672px;
+.linkedinimagem {
+  width: 18px;
+  height: 19px;
+  margin-top: 50px;
+  margin-left: 673px;
+  position: relative;
+  border-radius: 2px;
 }

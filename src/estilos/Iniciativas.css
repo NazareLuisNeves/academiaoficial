@@ -1,0 +1,57 @@
+.faixainiciativa {
+  background-color: rgba(223, 231, 243, 0.374);
+  width: 1246px;
+  height: 246px;
+  position: relative;
+  margin: 35px 0 0 11px;
+  padding-right: 20px;
+}
+.iniciativa-container .faixainiciativa:first-child {
+  margin-top: 90px;
+}
+.imageminiciativa {
+  width: 250px;
+  height: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 15px;
+}
+.tituloiniciativa {
+  color: rgb(5, 81, 147);
+  font-weight: bold;
+  margin-left: 310px;
+  margin-top: -204px;
+}
+
+.conteudoiniciativa {
+  font-size: 17px;
+  color: rgb(6, 56, 99);
+  margin: 3px 0 0 311px;
+  width: 760px;
+  text-align: left;
+  line-height: 1.8;
+  white-space: pre-line;
+  font-weight: 400;
+}
+
+.veriniciativas {
+  font-size: 16px;
+  color: white;
+  margin-left: 1053px;
+  margin-top: -74px;
+  font-weight: lighter;
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: rgb(5, 91, 166);
+  width: 158px;
+  height: 43px;
+  position: absolute;
+}
+.faixalateral {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 8px;
+  height: 100%;
+  background-color: rgb(45, 98, 179);
+}

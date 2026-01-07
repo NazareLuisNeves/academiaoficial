@@ -3,7 +3,7 @@ header {
   margin-top: 10px;
   padding: 10px;
   width: 100%;
-  font-family: 'Montserrat', 'Poppins' sans-serif;
+  font-family: 'Roboto', Sans-serif;
 }
 .caixa {
   display: flex;
@@ -13,8 +13,8 @@ header {
   background-color: rgba(228, 234, 243, 0.374);
   padding: 10px;
   height: 70px;
-  width: 800px;
-  margin-left: 150px;
+  width: 839px;
+  margin-left: 117px;
   border-radius: 20px;
   padding: 10px;
   align-content: center;
@@ -44,36 +44,37 @@ header {
   display: flex;
 }
 .label1 {
-  font-size: 16px;
-  font-weight: 1;
+  font-size: 17px;
+  font-weight: 350;
   margin-left: -20px;
   color: rgb(37, 91, 179);
   padding: 5px;
   width: 126px;
+  white-space: nowrap;
 }
 .label2 {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 1;
   margin-left: 20px;
   color: rgb(25, 12, 67);
   padding: 5px;
 }
 .label3 {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 1;
   margin-left: 20px;
   color: rgb(25, 12, 67);
   padding: 5px;
 }
 .label4 {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 1;
   margin-left: 20px;
   color: rgb(25, 12, 67);
   padding: 5px;
 }
 .label5 {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 1;
   margin-left: 20px;
   color: rgb(25, 12, 67);
@@ -87,7 +88,7 @@ header {
   color: #f5f5f5;
 }
 .logo {
-  width: 133px;
+  width: 141px;
   height: 75px;
   margin-left: 15px;
   margin-top: -11px;
@@ -95,17 +96,16 @@ header {
   justify-content: center;
 }
 .circulomaior {
-  width: 60px;
-  height: 60px;
+  width: 63px;
+  height: 63px;
   background-color: rgba(228, 234, 243, 0.374);
   border: 1px solid rgba(228, 234, 243, 0.374);
   border-radius: 500px;
-  margin-left: 761px;
-  
+  margin-left: 722px;
 }
 .circulomenor {
-  width: 42px;
-  height: 42px;
+  width: 45px;
+  height: 45px;
   background-color: rgb(44, 95, 176);
   border: 1px solid rgb(44, 95, 176);
   border-radius: 500px;
@@ -118,28 +118,28 @@ header {
   background-color: #07dfdf;
   border: none;
 }
-.circulomenor:hover .bolinha1{
+.circulomenor:hover .bolinha1 {
   background-color: rgb(3, 44, 111);
 }
-.circulomenor:hover .bolinha3{
+.circulomenor:hover .bolinha3 {
   background-color: rgb(3, 44, 111);
 }
-.circulomenor:hover .bolinha4{
+.circulomenor:hover .bolinha4 {
   background-color: rgb(3, 44, 111);
 }
 .bolinha1 {
-  width: 5px;
-  height: 5px;
-  margin-left: 18px;
+  width: 6px;
+  height: 6px;
+  margin-left: 19px;
   border: none;
   border-radius: 900px;
   background-color: rgb(255, 255, 255);
-  margin-top: -14px;
+  margin-top: -17px;
 }
 
 .bolinha3 {
-  width: 5px;
-  height: 5px;
+  width: 6px;
+  height: 6px;
   margin-left: -0px;
   border: none;
   border-radius: 900px;
@@ -148,11 +148,11 @@ header {
   margin-bottom: 36px;
 }
 .bolinha4 {
-  width: 5px;
-  height: 5px;
+  width: 6px;
+  height: 6px;
   margin-left: -0px;
   background-color: rgb(255, 255, 255);
-  margin-top: 7px;
+  margin-top: 9px;
   border: none;
   border-radius: 900px;
 }
@@ -167,6 +167,6 @@ header {
   position: relative;
   z-index: 10;
 }
-.rota1{
-margin-left: 1px;
+.rota1 {
+  margin-left: 1px;
 }

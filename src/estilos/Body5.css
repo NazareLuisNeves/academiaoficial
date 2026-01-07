@@ -1,5 +1,5 @@
 .body5 {
-  font-family: 'Montserrat', 'Poppins' sans-serif;
+  font-family: 'Roboto', Sans-serif;
 }
 .maispubli {
   background-color: rgb(38, 86, 163);
@@ -48,7 +48,7 @@
   margin-top: -21px;
   color: rgb(3, 50, 89);
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: 400;
 }
 .artigorecente {
   background-color: rgb(5, 228, 228);
@@ -93,7 +93,7 @@
   margin-top: -21px;
   color: rgb(3, 50, 89);
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: 400;
 }
 .dataoito {
   background-color: rgba(203, 223, 230, 0.726);
@@ -104,7 +104,7 @@
   margin-left: 20px;
   font-size: 12px;
   margin-top: 8px;
-  width: 70px;
+  width: 76px;
   display: flex;
   padding-left: 6px;
   padding-top: 5px;
@@ -137,7 +137,7 @@
   margin-top: -21px;
   color: rgb(3, 50, 89);
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: 400;
 }
 .data5 {
   background-color: rgba(203, 223, 230, 0.726);
@@ -148,7 +148,7 @@
   margin-left: 20px;
   font-size: 12px;
   margin-top: 6px;
-  width: 70px;
+  width: 76px;
   display: flex;
   padding-left: 6px;
   padding-top: 5px;
@@ -180,7 +180,7 @@
   margin-top: -21px;
   color: rgb(3, 50, 89);
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: 400;
 }
 .data6 {
   background-color: rgba(203, 223, 230, 0.726);
@@ -191,7 +191,7 @@
   margin-left: 20px;
   font-size: 12px;
   margin-top: 7px;
-  width: 70px;
+  width: 76px;
   display: flex;
   padding-left: 6px;
   padding-top: 5px;
@@ -223,7 +223,7 @@
   margin-top: -21px;
   color: rgb(3, 50, 89);
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: 400;
 }
 .data7 {
   background-color: rgba(203, 223, 230, 0.726);
@@ -234,7 +234,7 @@
   margin-left: 20px;
   font-size: 12px;
   margin-top: 7px;
-  width: 70px;
+  width: 76px;
   display: flex;
   padding-left: 6px;
   padding-top: 5px;

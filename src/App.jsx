@@ -8,6 +8,8 @@ import Iniciativas from './Paginas/Iniciativas'
 import Carreiras from './Paginas/Carreiras'
 import Política from './Paginas/PolíticaDeQualidade'
 import CertificadoDeConformidade from './Paginas/CertificadoDeConformidade'
+import EnsinoSuperior from './Paginas/EnsinoSuperior'
+import FormacaoComplementar from './Paginas/FormacaoComplementar'
 
 function App() {
   return (
@@ -29,6 +31,11 @@ function App() {
           <Route
             path="/certificado-de-conformidade"
             element={<CertificadoDeConformidade />}
+          />
+          <Route path="/ensino-superior" element={<EnsinoSuperior />} />
+          <Route
+            path="/formacao-complementar"
+            element={<FormacaoComplementar />}
           />
         </Routes>
       </Router>

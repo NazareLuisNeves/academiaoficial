@@ -2,183 +2,211 @@
   background-color: rgb(255, 254, 254);
   font-family: 'Roboto', Sans-serif;
 }
-.quadro {
+
+.body1-quadro {
   position: relative;
-}
-.edificio {
-  width: 865px;
-  height: 710px;
-  margin-top: -267px;
-  z-index: 1;
-  margin-left: -1300px;
-}
-.modelo {
-  width: 700px;
-  margin-left: 600px;
-  margin-top: -6px;
-  position: relative;
-}
-.circulocentral {
-  width: 490px;
-  height: 490px;
-  background-color: rgba(73, 201, 226, 0.235);
-  border-radius: 900px;
-  margin-top: -578px;
-  margin-left: 40px;
+  width: 100%;
   display: flex;
-  align-items: center;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1px;
+  padding-top: 4px;
 }
 
-.texto {
+.body1-edificio {
+  flex: 0 0 45%;
+  width: 1042px;
+  height: 688px;
+  position: relative;
+  z-index: 1;
+  order: 1;
+  margin-right: 219px;
+  position: absolute;
+}
+
+.body1-modelo {
+  flex: 0 0 45%;
+  width: 733px;
+  height: 688px;
+  position: relative;
+  z-index: 3;
+  order: 2;
+  margin-left: 555px;
+  position: absolute;
+}
+
+.body1-circulocentral {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 88px;
+  margin-left: 2%;
+  margin-top: 46px;
+  width: 450px;
+  height: 450px;
+  background-color: rgba(199, 217, 245, 0.374);
+  border-radius: 50%;
+  position: absolute;
+  top: 138px;
+  left: 24%;
+  transform: translateX(-50%);
+  z-index: 2;
+  text-align: center;
+}
+.body1-seta {
+  font-size: 40px;
+  position: absolute;
+  top: 191px;
+  left: -10%;
+  transform: translateX(-50%);
+  z-index: 4;
+  font-family: 'Roboto', Sans-serif;
+  color: rgb(4, 27, 87);
+}
+.body1-texto {
   font-family: 'Roboto', Sans-serif;
   color: rgb(4, 27, 87);
   font-size: 22px;
-  margin-left: 198px;
-  margin-top: -407px;
   font-weight: 400;
-  display: flex;
-  align-items: center;
-}
-.seta {
-  color: rgb(23, 91, 209);
-  font-weight: bolder;
-  margin-left: 17px;
-  font-size: 30px;
-  margin-top: 10px;
-  display: flex;
-}
-.orgulho {
-  font-size: 60px;
-  color: rgba(5, 72, 179, 0.838);
-  margin-left: -738px;
-  margin-top: -95px;
-  font-weight: bolder;
-  padding-bottom: 89px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.lasttext {
-  color: rgb(3, 44, 111);
-  font-size: 17px;
-  margin-left: 135px;
-  display: flex;
-  margin-top: -99px;
-  font-weight: lighter;
-}
-.lastdois {
-  color: rgb(3, 44, 111);
-  font-size: 17px;
-  margin-left: 112px;
-  text-indent: 11px;
-  padding-top: 6px;
-  margin-top: 1px;
-  font-weight: lighter;
-}
-.lasttres {
-  font-size: 17px;
-  margin-left: 112px;
-  text-indent: 13px;
-  margin-top: -18px;
-  font-weight: lighter;
-  color: rgb(3, 44, 111);
-}
-.nossa {
-  color: rgb(3, 44, 111);
-  font-size: 17px;
-  margin-left: 123px;
-  text-indent: 13px;
-  margin-top: 2px;
-  display: flex;
-  padding-top: 6px;
-  font-weight: lighter;
+  max-width: 400px;
+  line-height: 1.6;
+  z-index: 4;
+  white-space: nowrap;
+  margin: 0;
+  padding-top: 1px;
+  text-align: center;
 }
 
-.botao {
+.body1-orgulho {
+  font-size: 60px;
+  color: rgba(5, 72, 179, 0.838);
+  font-weight: bolder;
+  z-index: 4;
+  padding-right: 12px;
+  margin: 0;
+  padding-top: 1px;
+  text-align: center;
+}
+
+.body1-lasttext {
+  color: rgb(3, 44, 111);
+  font-size: 17px;
+  font-weight: lighter;
+  line-height: 1.6;
+  z-index: 4;
+  margin: 0;
+  padding-top: 1px;
+}
+
+.body1-botao {
   background-color: rgb(5, 228, 228);
   color: rgb(6, 71, 168);
   border: 1px solid rgb(5, 228, 228);
   border-radius: 10px;
-  width: 120px;
-  height: 40px;
+  width: 140px;
+  height: 45px;
   font-size: 16px;
-  margin-left: 220px;
-  margin-top: 49px;
+  cursor: pointer;
+  z-index: 4;
+  margin: 0;
+  padding-top: 1px;
+  margin-top: 22px;
 }
-.botao:hover {
+
+.body1-botao:hover {
   background-color: rgb(3, 44, 111);
-  color: rgb(255, 255, 255);
+  border: 1px solid rgb(3, 44, 111);
+  color: #fff;
 }
-.retangulo {
-  height: 119px;
-  width: 580px;
-  background-color: rgb(0, 25, 251);
-  margin-left: 700px;
-  z-index: 3;
-  margin-top: -376px;
-  opacity: 0.2;
+.container-retangulo {
+  justify-content: flex-end;
   display: flex;
 }
-.feitos {
-  margin-left: 1134px;
+.body1-retangulo {
+  position: absolute;
+  right: 0px;
+  top: 186px;
+  width: 610px;
+  height: 119px;
+  z-index: 3;
+  opacity: 0.3;
+  display: flex;
+  background-color: rgb(0, 25, 251);
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.container-span {
+  position: absolute;
+  right: 72px;
+  top: 200px;
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 15px;
+}
+.body1-feitos {
   color: rgb(255, 255, 255);
-  position: relative;
   font-size: 26px;
   font-weight: bold;
-  z-index: 3;
-  margin-top: -131px;
-  display: flex;
+  line-height: 1;
 }
-.futuro {
+.body1-futuro {
   font-family: 'Roboto', Sans-serif;
   font-size: 100px;
   color: rgb(255, 255, 255);
   writing-mode: vertical-rl;
-  margin-left: 1110px;
-  position: relative;
-  margin-top: -36px;
   font-weight: bold;
+  margin-top: 216px;
+  margin-left: 1024px;
+  z-index: 3;
 }
-.de {
+.body1-de {
   color: rgb(255, 255, 255);
-  margin-top: -390px;
-  margin-left: 1135px;
-  position: relative;
+
   font-size: 18px;
   font-weight: bold;
   display: flex;
+  line-height: 1;
 }
-.divazul {
+.body1-divazul {
   width: 980px;
-  height: 90px;
+  height: 99px;
   background-color: rgb(38, 86, 163);
-  margin-top: 423px;
-  position: relative;
+  margin-top: 598px;
+  position: absolute;
   margin-left: 300px;
+  z-index: 3;
+  display: flex;
+  align-items: center;
 }
-.divverde {
-  width: 30px;
-  height: 90px;
+.body1-divverde {
+  width: 26px;
+  height: 99px;
   background-color: rgb(0, 251, 251);
 }
-.continuamos {
-  color: white;
-  font-size: 30px;
-  margin-left: 200px;
-  white-space: nowrap;
-  margin-top: 100px;
-  display: flex;
-  border: none;
-  padding-top: 27px;
-  padding-right: 10px;
-  font-weight: bold;
-}
-.pontos {
+.body1-pontos {
   color: rgb(5, 228, 228);
-  margin-top: -88px;
+  margin-top: 10px;
   position: relative;
   font-size: 57px;
   margin-left: 880px;
   border-radius: 30px;
   letter-spacing: -4px;
+}
+.body1-continuamos {
+  color: rgb(255, 255, 255);
+  font-size: 33px;
+  margin-left: 134px;
+  white-space: nowrap;
+  margin-top: 1px;
+  display: flex;
+  border: none;
+  padding-top: 27px;
+  padding-right: 10px;
+  font-weight: bold;
+  font-family: 'Roboto', Sans-serif;
 }

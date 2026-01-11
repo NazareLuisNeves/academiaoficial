@@ -56,6 +56,7 @@ function Iniciativas() {
       <Header />
       <Cabecalho titulo="Iniciativas" texto="Academia BAI > Iniciativas" />
       <div className="iniciativa-container">
+        {' '}
         {iniciativas.map((iniciativa, index) => (
           <Iniciativa
             key={index}
@@ -63,7 +64,7 @@ function Iniciativas() {
             titulo={iniciativa.titulo || 'Sem título'}
             conteudo={iniciativa.conteudo || 'Sem descrição'}
           />
-        ))}
+        ))}{' '}
       </div>
 
       <Bolinha />

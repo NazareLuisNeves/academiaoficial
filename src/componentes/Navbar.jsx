@@ -4,25 +4,29 @@ import '../estilos/Navbar.css'
 
 function Navbar() {
   return (
-    <nav className='navbar'>
-        <div className="menu1">
-                        <Link to="/src/Paginas/Sobrenos.jsx" className='link'><label htmlFor="text">Sobre Nós</label></Link>
-                        <br />
-
-                        <Link to="/src/Paginas/MensagemdaPresidente.jsx"> <label htmlFor="text">Mensagem da Presidente</label></Link>
-                        <br />
-
-                        <label htmlFor="text">Órgãos Sociais</label>
-                        <br />
-                        <label htmlFor="text">Galeria</label>
-                        <br />
-                        <label htmlFor="text">Iniciativas</label>
-                        <br />
-                        <label htmlFor="text">Carreiras</label>
-                        <br />
-                        <label htmlFor="text">Qualidade &gt;</label>
-                      </div>
-    </nav>
+    <div className="menu1">
+      <Link to="/sobrenos" className="link">
+        Sobre Nós
+      </Link>
+      <Link to="/mensagemdapresidente" className="link">
+        Mensagem da Presidente
+      </Link>
+      <Link to="/orgaossociais" className="link">
+        Orgãos Sociais
+      </Link>
+      <Link to="/galeria" className="link">
+        Galeria
+      </Link>
+      <Link to="/iniciativas" className="link">
+        Iniciativas
+      </Link>
+      <Link to="/carreiras" className="link">
+        Carreiras
+      </Link>
+      <Link to="/politica-da-qualidade" className="link">
+        Qualidade &gt;
+      </Link>
+    </div>
   )
 }
 export default Navbar

@@ -1,201 +1,91 @@
 .geral {
-  font-family: 'Roboto', Sans-serif;
-}
-.footer {
-  width: auto;
-  margin: 0;
-  height: 400px;
   background-color: rgba(221, 232, 236, 0.726);
-  margin-top: 70px;
+  font-family: 'Roboto', sans-serif;
 }
-.icone {
-  width: 179px;
-  height: 97px;
-  margin-left: 10px;
-  margin-top: -341px;
+
+.footer-conteudo {
   display: flex;
-  position: relative;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 77px 33px;
+  gap: 124px;
 }
+
+.footer-esquerda {
+  max-width: 300px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  margin: -14px 0px 0px 0px;
+  left: 0;
+  text-align: left;
+}
+
+.footer-icone {
+  width: 205px;
+}
+
 .criada {
-  margin-left: 15px;
-  color: rgb(3, 30, 72);
-  margin-top: -8px;
+  font-size: 16px;
   line-height: 1.6;
-  font-size: 15px;
-  font-weight: 400;
-}
-.titulo {
-  font-weight: bold;
-  font-size: 18px;
-  margin-left: 181px;
-  margin-top: -32px;
   color: rgb(3, 30, 72);
+  margin-left: -10px;
 }
-.sobrenosfooter {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -32px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.mensagemdapr {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -35px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.orgaossoci {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -35px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.carreiras {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -35px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.grupo1 {
-  margin-left: 181px;
-  margin-top: -216px;
-  color: rgb(3, 30, 72);
-  font-size: 15px;
-}
-.grupo2 {
-  margin-left: 368px;
-  margin-top: -197px;
-  color: rgb(3, 30, 72);
-  font-size: 15px;
-}
-.atalhos {
-  font-weight: bold;
-  font-size: 18px;
-  margin-left: 181px;
-  color: rgb(3, 30, 72);
-}
-.iniciativas {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -33px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.publicacoes {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -32px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.espacos {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -20px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.grupo3 {
-  margin-left: 518px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.qualidade {
-  font-weight: bold;
-  font-size: 18px;
-  margin-left: 181px;
-  margin-top: -166px;
-  color: rgb(3, 30, 72);
-}
-.politicaQualidade {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -32px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.certificado {
-  font-weight: 400;
-  margin-left: 181px;
-  margin-top: -31px;
-  color: rgb(3, 30, 72);
-  font-size: 17px;
-}
-.contatos {
-  margin-left: 932px;
-  margin-top: -123px;
-  color: rgb(3, 30, 72);
-  font-size: 18px;
-  font-weight: bold;
-  font-size: 18px;
-}
-.avenida {
-  margin-left: 948px;
-  margin-top: -18px;
-  color: rgb(3, 30, 72);
-  font-size: 16px;
-}
-.resto {
-  margin-left: 913px;
-  width: 32px;
-  margin-top: -112px;
+
+.container-grupos {
   display: flex;
-  height: 103px;
+  gap: 42px;
 }
-.AB {
-  margin-left: 948px;
-  margin-top: -34px;
-  color: rgb(3, 30, 72);
-  font-size: 16px;
-}
-.number {
-  margin-left: 948px;
-  margin-top: -35px;
-  color: rgb(3, 30, 72);
-  font-size: 16px;
-}
-.email {
-  margin-left: 948px;
-  margin-top: -37px;
-  color: rgb(3, 30, 72);
-  font-size: 16px;
-}
-.cincobolinhas {
-  width: 400px;
-  height: 86px;
-  margin-left: 862px;
-  margin-top: 18px;
+
+.footer-grupo1 {
   display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
-.final {
-  width: 1265px;
-  height: 43px;
+
+.footer-titulo {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: rgb(3, 30, 72);
+}
+
+.footer-subtitulo {
+  font-size: 16px;
+  color: rgb(3, 30, 72);
+}
+
+.linha-contacto {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+}
+
+.footer-final {
   background-color: rgb(0, 86, 185);
-  margin-top: 61px;
-}
-.politica {
-  margin-left: 20px;
   color: white;
-  padding-top: 11px;
-  font-size: 16px;
-  font-weight: lighter;
-}
-.centro {
-  margin-left: 500px;
-  color: rgb(255, 255, 255);
-  padding-top: 17px;
-  margin-top: -33px;
-  font-size: 16px;
-  font-weight: lighter;
-}
-.redessociais {
-  padding-top: 15px;
-  margin-top: -36px;
-  margin-left: 1122px;
   display: flex;
-  width: 139px;
-  height: 36px;
+  justify-content: space-between;
+  padding: 12px 60px;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+.icone-localizacao {
+  color: rgb(0, 86, 185);
+  font-size: 14px;
+}
+.icone-contacto {
+  color: rgb(0, 86, 185);
+  font-size: 14px;
+}
+.icone-email {
+  color: rgb(0, 86, 185);
+  font-size: 14px;
+}
+.container-redessociais {
+  display: flex;
+  font-size: 18px;
+  gap: 27px;
 }

@@ -1,22 +1,20 @@
-.faixaazul {
-  width: 1200px;
+.mundo-faixaazul {
+  width: 1265px;
   height: 160px;
   background-color: rgba(0, 55, 111, 0.922);
-  margin-top: 198px;
-  margin-left: -8px;
-}
-.faixaverde {
-  width: 33px;
-  height: 160px;
-  background-color: rgb(5, 228, 228);
-  margin-left: 1200px;
+  margin-top: 124px;
   position: relative;
 }
-.mundo {
-  margin-left: 30px;
-  width: 900px;
-  margin-top: -115px;
+.mundo-faixaazul div {
+  width: 18px;
+  height: 160px;
+  background-color: rgb(5, 228, 228);
   position: absolute;
-  top: 120%;
-  left: 38%;
+  top: 0;
+  right: 0;
+}
+.mundo-faixaazul img {
+  margin-left: 30px;
+  width: 990px;
+  padding-top: 43px;
 }

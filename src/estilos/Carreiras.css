@@ -4,14 +4,12 @@
   margin: 50px auto 0 auto;
   display: block;
 }
-
 .titulo1,
 .titulo2,
 .titulo3 {
   text-align: center;
   color: rgb(25, 12, 67);
 }
-
 .titulo1 {
   font-weight: lighter;
   margin-top: 16px;
@@ -28,19 +26,16 @@
   margin-top: -15px;
   margin-left: 232px;
 }
-
 .formulario {
   width: 900px;
   margin: 64px auto;
   margin-left: 338px;
 }
-
 .colunas-container {
   display: flex;
   justify-content: space-between;
   gap: 40px;
 }
-
 .coluna {
   display: flex;
   flex-direction: column;
@@ -48,13 +43,11 @@
   margin-top: 91px;
   margin-left: -322px;
 }
-
 .campo {
   display: flex;
   flex-direction: column;
   margin-bottom: 20px;
 }
-
 .campo label {
   margin-bottom: 6px;
   font-size: 15px;
@@ -76,12 +69,13 @@
 .borda1 {
   width: 40px;
   height: 47px;
-  margin-top: 10px;
-  margin-left: 338px;
+  margin-top: -67px;
+  margin-left: 0px;
   background-color: rgb(6, 51, 109);
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
-  display: block;
+  display: flex;
+  align-items: center;
 }
 .campo.checkbox {
   flex-direction: row;

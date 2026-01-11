@@ -1,12 +1,12 @@
 import React from 'react'
-import mundo from './../assets/mundo.png'
+import '../estilos/Mundo.css'
 
 function Mundo() {
   return (
-   <div className="faixaazul">
-        <div className="faixaverde"></div>
-        <img src={mundo} alt="" className='mundo'/>
-      </div>
+    <div className="mundo-faixaazul">
+      <div />
+      <img src="mundo.png" alt="" />
+    </div>
   )
 }
-export default Mundo;
+export default Mundo

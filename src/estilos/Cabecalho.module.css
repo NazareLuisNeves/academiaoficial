@@ -1,27 +1,28 @@
-.fichamaior {
+.cabecalhoFichamaior {
   width: 1065px;
   height: 115px;
   background-color: rgb(33, 94, 192);
   margin-top: 53px;
   position: relative;
   margin-left: 227px;
+  display: flex;
+  align-items: center;
 }
-.fichamenor {
+.cabecalhoFichamenor {
   width: 14px;
-  height: 116px;
+  height: 115px;
   background-color: rgb(0, 251, 251);
-  margin-left: 0px;
-  margin-top: -92px;
+  position: absolute;
+  margin-right: 10px;
 }
 p {
   color: rgb(255, 255, 255);
   font-size: 16px;
   margin-left: 336px;
   white-space: nowrap;
-  margin-top: -22px;
   display: flex;
   border: none;
-  padding-top: 28px;
+  padding-top: 4px;
   padding-right: 10px;
   font-weight: lighter;
   font-family: 'Roboto', Sans-serif;
@@ -35,4 +36,12 @@ h1 {
   padding-right: 10px;
   font-weight: bold;
   font-family: 'Roboto', Sans-serif;
+}
+.cabecalhoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 12%;
+  margin-left: 0%;
 }

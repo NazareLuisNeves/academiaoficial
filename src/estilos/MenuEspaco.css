@@ -1,0 +1,21 @@
+.menu-espaco {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background-color: rgba(15, 102, 233, 0.374);
+  border-radius: 12px;
+  width: 100px;
+  height: 80px;
+  font-family: 'Roboto', sans-serif;
+}
+.menu-espaco link {
+  text-decoration: none;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-weight: lighter;
+}
+.link:hover {
+  color: rgb(45, 120, 234);
+}

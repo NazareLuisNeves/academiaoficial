@@ -1,40 +1,41 @@
 .body3 {
   background-color: rgb(255, 254, 254);
   font-family: 'Roboto', Sans-serif;
-  margin-top: 45px;
+  margin-top: 16px;
 }
-.moco {
+.body3-moco {
   margin-left: 5px;
   width: 200px;
   height: 349px;
   margin-top: 50px;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
+  margin-right: -6px;
 }
-.idoso {
+.body3-idoso {
   width: 200px;
   height: 350px;
   margin-top: 50px;
-  margin-left: -10px;
+  margin-right: -6px;
 }
-.moca {
+.body3-moca {
   width: 200px;
   height: 349px;
   margin-top: 50px;
-  margin-left: -10px;
+  margin-left: 1px;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
 }
-.faixa1 {
+.body3-faixa1 {
   height: 100px;
-  width: 590px;
+  width: 602px;
   background-color: rgb(6, 30, 250);
   margin-left: 0.5px;
   z-index: 3;
   margin-top: -280px;
   opacity: 0.2;
 }
-.faixa2 {
+.body3-faixa2 {
   height: 100px;
   width: 620px;
   background-color: rgb(6, 30, 250);
@@ -42,42 +43,52 @@
   z-index: 3;
   margin-top: -100px;
 }
-.sobrenos {
+.container-sobrenos {
+  align-items: center;
+  align-content: center;
+  margin-left: 622px;
+  margin-top: -13%;
+}
+.body3 .sobrenos {
   color: rgb(45, 98, 179);
   font-size: 20px;
-  margin-left: 623px;
-  margin-top: -149px;
+  margin: 0;
+  padding-top: 8px;
   font-weight: lighter;
 }
-.umacademia {
+.body3 h1 {
   margin-left: 621px;
   margin-top: -28px;
   color: rgb(3, 50, 89);
   font-size: 32px;
+  margin: 0;
+  padding-top: 8px;
 }
-.umacademia:hover {
+.body3 button:hover {
   background-color: rgb(3, 50, 89);
   color: rgb(255, 254, 254);
 }
-.textao {
+.body3 p {
   margin-left: 624px;
   margin-top: -5px;
   color: rgb(0, 47, 86);
   font-size: 14px;
   line-height: 1.9;
   font-weight: lighter;
+  margin: 0;
+  padding-top: 8px;
 }
-.saibamais {
+.body3 button {
   background-color: rgb(38, 86, 163);
   width: 130px;
   height: 42px;
   color: white;
-  margin-left: 623px;
   border: none;
   border-radius: 10px;
   font-size: 15px;
   position: static;
   margin-top: 23px;
+  padding-top: 1px;
 }
 .bolinhapri {
   width: 1270px;

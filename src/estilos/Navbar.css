@@ -1,23 +1,30 @@
-.navbar {
-  text-decoration: none;
-  color: inherit;
-  cursor: pointer;
-}
 .menu1 {
-  color: rgb(37, 91, 179);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
   background-color: rgba(228, 234, 243, 0.374);
-  width: 192px;
-  height: 292px;
-  border-radius: 23px;
-  margin-top: 372px;
-  margin-left: -561px;
-  margin-right: 377px;
-  padding-left: 19px;
-  padding-top: 13px;
-  line-height: 2.9;
-  font-size: 14px;
+  border-radius: 12px;
+  padding: 10px 20px;
+  width: fit-content;
+  max-width: 233px;
+  align-items: flex-start;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 375px;
+  margin-left: 245px;
 }
+
 .link {
+  display: block;
   text-decoration: none;
-  color: inherit;
+  color: rgb(3, 30, 72);
+  font-size: 15px;
+  font-weight: lighter;
+  white-space: nowrap;
+  margin-left: 2px;
+  margin-top: 10px;
 }
+
+.link:hover {
+  color: rgb(45, 120, 234);
+}
+/*228,234,243,0.374*/

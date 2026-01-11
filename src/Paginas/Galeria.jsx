@@ -164,177 +164,99 @@ export default function Galeria() {
     <>
       <Header />
       <Cabecalho titulo="Galeria" texto="Academia BAI &gt; Galeria" />
-      <div className="tudo">TUDO</div>
-
-      <h5 className="titulos1">PARCERIAS</h5>
-      <h5 className="titulos2">O LIVRO DA MINHA VIDA</h5>
-      <h5 className="titulos3">WOMEN ON BOARD</h5>
-      <h5 className="titulos4">PARA ALÉM DOS ACORDES</h5>
-      <h5 className="titulos5">PROGRAMAR SER</h5>
-      <h5 className="titulos6">CERIMONIA DE OUTORGA ISAF</h5>
-      <h5 className="titulos7">CERIMONIA DE OUTORGA AEE</h5>
-      <h5 className="titulos8">CONVERSAS NO DIVÃ</h5>
-      <h5 className="titulos9">MEU MUNDO MEU FUTURO</h5>
-      <h5 className="titulos10">NETWORKING SESSION</h5>
-      <h5 className="titulos11">BOLD</h5>
-      <h5 className="titulos12">CAMPO DE CACIMBO</h5>
-      <h5 className="titulos13">ACADEMIA BAI</h5>
+      <div className="tudo">TUDO</div> <h5 className="titulos1">PARCERIAS</h5>{' '}
+      <h5 className="titulos2">O LIVRO DA MINHA VIDA</h5>{' '}
+      <h5 className="titulos3">WOMEN ON BOARD</h5>{' '}
+      <h5 className="titulos4">PARA ALÉM DOS ACORDES</h5>{' '}
+      <h5 className="titulos5">PROGRAMAR SER</h5>{' '}
+      <h5 className="titulos6">CERIMONIA DE OUTORGA ISAF</h5>{' '}
+      <h5 className="titulos7">CERIMONIA DE OUTORGA AEE</h5>{' '}
+      <h5 className="titulos8">CONVERSAS NO DIVÃ</h5>{' '}
+      <h5 className="titulos9">MEU MUNDO MEU FUTURO</h5>{' '}
+      <h5 className="titulos10">NETWORKING SESSION</h5>{' '}
+      <h5 className="titulos11">BOLD</h5>{' '}
+      <h5 className="titulos12">CAMPO DE CACIMBO</h5>{' '}
+      <h5 className="titulos13">ACADEMIA BAI</h5>{' '}
       <div className="primeirafila">
-        <img src={galeria1} alt="" />
-        <img src={galeria2} alt="" />
-        <img src={galeria3} alt="" />
-        <img src={galeria4} alt="" />
-        <img src={galeria5} alt="" />
-        <img src={galeria6} alt="" />
-        <img src={galeria7} alt="" />
-        <img src={galeria8} alt="" />
-        <img src={galeria9} alt="" />
-        <img src={galeria10} alt="" />
-        <img src={galeria11} alt="" />
-        <img src={galeria12} alt="" />
-        <img src={galeria13} alt="" />
-        <img src={galeria14} alt="" />
-        <img src={galeria15} alt="" />
-        <img src={galeria16} alt="" />
-        <img src={galeria17} alt="" />
-        <img src={galeria18} alt="" />
-        <img src={galeria19} alt="" />
-        <img src={galeria20} alt="" />
-        <img src={galeria21} alt="" />
-        <img src={galeria22} alt="" />
-        <img src={galeria23} alt="" />
-        <img src={galeria24} alt="" />
-        <img src={galeria25} alt="" />
-        <img src={galeria26} alt="" />
-        <img src={galeria27} alt="" />
-        <img src={galeria28} alt="" />
-        <img src={galeria29} alt="" />
-        <img src={galeria30} alt="" />
-        <img src={galeria31} alt="" />
-        <img src={galeria32} alt="" />
-        <img src={galeria33} alt="" />
-        <img src={galeria34} alt="" />
-        <img src={galeria35} alt="" />
-        <img src={galeria36} alt="" />
-        <img src={galeria37} alt="" />
-        <img src={galeria38} alt="" />
-        <img src={galeria39} alt="" />
-        <img src={galeria40} alt="" />
-        <img src={galeria41} alt="" />
-        <img src={galeria42} alt="" />
-        <img src={galeria43} alt="" />
-        <img src={galeria44} alt="" />
-        <img src={galeria45} alt="" />
-        <img src={galeria46} alt="" />
-        <img src={galeria47} alt="" />
-        <img src={galeria48} alt="" />
-        <img src={galeria49} alt="" />
-        <img src={galeria50} alt="" />
-        <img src={galeria51} alt="" />
-        <img src={galeria52} alt="" />
-        <img src={galeria53} alt="" />
-        <img src={galeria54} alt="" />
-        <img src={galeria55} alt="" />
-        <img src={galeria56} alt="" />
-        <img src={galeria57} alt="" />
-        <img src={galeria58} alt="" />
-        <img src={galeria59} alt="" />
-        <img src={galeria60} alt="" />
-        <img src={galeria61} alt="" />
-        <img src={galeria62} alt="" />
-        <img src={galeria63} alt="" />
-        <img src={galeria64} alt="" />
-        <img src={galeria65} alt="" />
-        <img src={galeria66} alt="" />
-        <img src={galeria68} alt="" />
-        <img src={galeria69} alt="" />
-        <img src={galeria70} alt="" />
-        <img src={galeria71} alt="" />
-        <img src={galeria72} alt="" />
-        <img src={galeria73} alt="" />
-        <img src={galeria74} alt="" />
-        <img src={galeria75} alt="" />
-        <img src={galeria76} alt="" />
-        <img src={galeria77} alt="" />
-        <img src={galeria78} alt="" />
-        <img src={galeria79} alt="" />
-        <img src={galeria80} alt="" />
-        <img src={galeria81} alt="" />
-        <img src={galeria82} alt="" />
-        <img src={galeria83} alt="" />
-        <img src={galeria84} alt="" />
-        <img src={galeria85} alt="" />
-        <img src={galeria86} alt="" />
-        <img src={galeria87} alt="" />
-        <img src={galeria88} alt="" />
-        <img src={galeria89} alt="" />
-        <img src={galeria90} alt="" />
-        <img src={galeria91} alt="" />
-        <img src={galeria92} alt="" />
-        <img src={galeria93} alt="" />
-        <img src={galeria94} alt="" />
-        <img src={galeria95} alt="" />
-        <img src={galeria96} alt="" />
-        <img src={galeria97} alt="" />
-        <img src={galeria98} alt="" />
-        <img src={galeria99} alt="" />
-        <img src={galeria100} alt="" />
-        <img src={galeria101} alt="" />
-        <img src={galeria102} alt="" />
-        <img src={galeria103} alt="" />
-        <img src={galeria104} alt="" />
-        <img src={galeria105} alt="" />
-        <img src={galeria106} alt="" />
-        <img src={galeria107} alt="" />
-        <img src={galeria108} alt="" />
-        <img src={galeria109} alt="" />
-        <img src={galeria110} alt="" />
-        <img src={galeria111} alt="" />
-        <img src={galeria112} alt="" />
-        <img src={galeria113} alt="" />
-        <img src={galeria114} alt="" />
-        <img src={galeria115} alt="" />
-        <img src={galeria116} alt="" />
-        <img src={galeria117} alt="" />
-        <img src={galeria118} alt="" />
-        <img src={galeria119} alt="" />
-        <img src={galeria120} alt="" />
-        <img src={galeria121} alt="" />
-        <img src={galeria122} alt="" />
-        <img src={galeria123} alt="" />
-        <img src={galeria124} alt="" />
-        <img src={galeria125} alt="" />
-        <img src={galeria126} alt="" />
-        <img src={galeria127} alt="" />
-        <img src={galeria128} alt="" />
-        <img src={galeria129} alt="" />
-        <img src={galeria130} alt="" />
-        <img src={galeria131} alt="" />
-        <img src={galeria132} alt="" />
-        <img src={galeria133} alt="" />
-        <img src={galeria134} alt="" />
-        <img src={galeria135} alt="" />
-        <img src={galeria136} alt="" />
-        <img src={galeria137} alt="" />
-        <img src={galeria138} alt="" />
-        <img src={galeria139} alt="" />
-        <img src={galeria140} alt="" />
-        <img src={galeria141} alt="" />
-        <img src={galeria142} alt="" />
-        <img src={galeria143} alt="" />
-        <img src={galeria144} alt="" />
-        <img src={galeria145} alt="" />
-        <img src={galeria146} alt="" />
-        <img src={galeria147} alt="" />
-        <img src={galeria148} alt="" />
-        <img src={galeria149} alt="" />
-        <img src={galeria150} alt="" />
-        <img src={galeria151} alt="" />
-        <img src={galeria152} alt="" />
-        <img src={galeria153} alt="" />
-        <img src={galeria154} alt="" />
-        <img src={galeria155} alt="" />
-      </div>
+        {' '}
+        <img src={galeria1} alt="" /> <img src={galeria2} alt="" />{' '}
+        <img src={galeria3} alt="" /> <img src={galeria4} alt="" />{' '}
+        <img src={galeria5} alt="" /> <img src={galeria6} alt="" />{' '}
+        <img src={galeria7} alt="" /> <img src={galeria8} alt="" />{' '}
+        <img src={galeria9} alt="" /> <img src={galeria10} alt="" />{' '}
+        <img src={galeria11} alt="" /> <img src={galeria12} alt="" />{' '}
+        <img src={galeria13} alt="" /> <img src={galeria14} alt="" />{' '}
+        <img src={galeria15} alt="" /> <img src={galeria16} alt="" />{' '}
+        <img src={galeria17} alt="" /> <img src={galeria18} alt="" />{' '}
+        <img src={galeria19} alt="" /> <img src={galeria20} alt="" />{' '}
+        <img src={galeria21} alt="" /> <img src={galeria22} alt="" />{' '}
+        <img src={galeria23} alt="" /> <img src={galeria24} alt="" />{' '}
+        <img src={galeria25} alt="" /> <img src={galeria26} alt="" />{' '}
+        <img src={galeria27} alt="" /> <img src={galeria28} alt="" />{' '}
+        <img src={galeria29} alt="" /> <img src={galeria30} alt="" />{' '}
+        <img src={galeria31} alt="" /> <img src={galeria32} alt="" />{' '}
+        <img src={galeria33} alt="" /> <img src={galeria34} alt="" />{' '}
+        <img src={galeria35} alt="" /> <img src={galeria36} alt="" />{' '}
+        <img src={galeria37} alt="" /> <img src={galeria38} alt="" />{' '}
+        <img src={galeria39} alt="" /> <img src={galeria40} alt="" />{' '}
+        <img src={galeria41} alt="" /> <img src={galeria42} alt="" />{' '}
+        <img src={galeria43} alt="" /> <img src={galeria44} alt="" />{' '}
+        <img src={galeria45} alt="" /> <img src={galeria46} alt="" />{' '}
+        <img src={galeria47} alt="" /> <img src={galeria48} alt="" />{' '}
+        <img src={galeria49} alt="" /> <img src={galeria50} alt="" />{' '}
+        <img src={galeria51} alt="" /> <img src={galeria52} alt="" />{' '}
+        <img src={galeria53} alt="" /> <img src={galeria54} alt="" />{' '}
+        <img src={galeria55} alt="" /> <img src={galeria56} alt="" />{' '}
+        <img src={galeria57} alt="" /> <img src={galeria58} alt="" />{' '}
+        <img src={galeria59} alt="" /> <img src={galeria60} alt="" />{' '}
+        <img src={galeria61} alt="" /> <img src={galeria62} alt="" />{' '}
+        <img src={galeria63} alt="" /> <img src={galeria64} alt="" />{' '}
+        <img src={galeria65} alt="" /> <img src={galeria66} alt="" />{' '}
+        <img src={galeria68} alt="" /> <img src={galeria69} alt="" />{' '}
+        <img src={galeria70} alt="" /> <img src={galeria71} alt="" />{' '}
+        <img src={galeria72} alt="" /> <img src={galeria73} alt="" />{' '}
+        <img src={galeria74} alt="" /> <img src={galeria75} alt="" />{' '}
+        <img src={galeria76} alt="" /> <img src={galeria77} alt="" />{' '}
+        <img src={galeria78} alt="" /> <img src={galeria79} alt="" />{' '}
+        <img src={galeria80} alt="" /> <img src={galeria81} alt="" />{' '}
+        <img src={galeria82} alt="" /> <img src={galeria83} alt="" />{' '}
+        <img src={galeria84} alt="" /> <img src={galeria85} alt="" />{' '}
+        <img src={galeria86} alt="" /> <img src={galeria87} alt="" />{' '}
+        <img src={galeria88} alt="" /> <img src={galeria89} alt="" />{' '}
+        <img src={galeria90} alt="" /> <img src={galeria91} alt="" />{' '}
+        <img src={galeria92} alt="" /> <img src={galeria93} alt="" />{' '}
+        <img src={galeria94} alt="" /> <img src={galeria95} alt="" />{' '}
+        <img src={galeria96} alt="" /> <img src={galeria97} alt="" />{' '}
+        <img src={galeria98} alt="" /> <img src={galeria99} alt="" />{' '}
+        <img src={galeria100} alt="" /> <img src={galeria101} alt="" />{' '}
+        <img src={galeria102} alt="" /> <img src={galeria103} alt="" />{' '}
+        <img src={galeria104} alt="" /> <img src={galeria105} alt="" />{' '}
+        <img src={galeria106} alt="" /> <img src={galeria107} alt="" />{' '}
+        <img src={galeria108} alt="" /> <img src={galeria109} alt="" />{' '}
+        <img src={galeria110} alt="" /> <img src={galeria111} alt="" />{' '}
+        <img src={galeria112} alt="" /> <img src={galeria113} alt="" />{' '}
+        <img src={galeria114} alt="" /> <img src={galeria115} alt="" />{' '}
+        <img src={galeria116} alt="" /> <img src={galeria117} alt="" />{' '}
+        <img src={galeria118} alt="" /> <img src={galeria119} alt="" />{' '}
+        <img src={galeria120} alt="" /> <img src={galeria121} alt="" />{' '}
+        <img src={galeria122} alt="" /> <img src={galeria123} alt="" />{' '}
+        <img src={galeria124} alt="" /> <img src={galeria125} alt="" />{' '}
+        <img src={galeria126} alt="" /> <img src={galeria127} alt="" />{' '}
+        <img src={galeria128} alt="" /> <img src={galeria129} alt="" />{' '}
+        <img src={galeria130} alt="" /> <img src={galeria131} alt="" />{' '}
+        <img src={galeria132} alt="" /> <img src={galeria133} alt="" />{' '}
+        <img src={galeria134} alt="" /> <img src={galeria135} alt="" />{' '}
+        <img src={galeria136} alt="" /> <img src={galeria137} alt="" />{' '}
+        <img src={galeria138} alt="" /> <img src={galeria139} alt="" />{' '}
+        <img src={galeria140} alt="" /> <img src={galeria141} alt="" />{' '}
+        <img src={galeria142} alt="" /> <img src={galeria143} alt="" />{' '}
+        <img src={galeria144} alt="" /> <img src={galeria145} alt="" />{' '}
+        <img src={galeria146} alt="" /> <img src={galeria147} alt="" />{' '}
+        <img src={galeria148} alt="" /> <img src={galeria149} alt="" />{' '}
+        <img src={galeria150} alt="" /> <img src={galeria151} alt="" />{' '}
+        <img src={galeria152} alt="" /> <img src={galeria153} alt="" />{' '}
+        <img src={galeria154} alt="" /> <img src={galeria155} alt="" />{' '}
+      </div>{' '}
       <button className="maisimagens">Mais Imagens</button>
       <Bolinha />
       <Footer />

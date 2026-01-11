@@ -1,27 +1,42 @@
-.titulo {
+.ParagrafoContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  height: auto;
+  padding-top: 8px;
+  margin-left: 51%;
+  position: relative;
+  margin-top: -26%;
+  padding: 0;
+  gap: 4px;
+}
+
+.ParagrafoTitulo {
   color: rgb(45, 98, 179);
-  margin-left: 661px;
-  margin-top: -388px;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 20px;
   font-family: 'Roboto', Sans-serif;
+  margin-top: 10px;
+  padding-top: 8px;
 }
-.subtitulo {
+
+.ParagrafoSubtitulo {
   color: rgb(3, 30, 72);
-  font-size: 25px;
-  margin-top: -20px;
-  margin-left: 660px;
-  font-size: 22px;
+  font-size: 29px;
   font-family: 'Roboto', Sans-serif;
+  margin-left: 1px;
 }
-.conteudo {
+
+.ParagrafoConteudo {
   color: rgb(3, 30, 72);
-  margin-top: -57px;
-  margin-left: 661px;
   font-size: 17px;
   line-height: 1.6;
-  white-space: pre-wrap;
   text-align: left;
   font-family: 'Roboto', Sans-serif;
   font-weight: 400;
+  margin: 0;
+  padding-top: 8px;
+  white-space: pre-line;
 }

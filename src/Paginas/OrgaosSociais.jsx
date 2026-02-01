@@ -25,10 +25,11 @@ import carlosduarte from '../assets/carlosduarte.png'
 export default function OrgaosSociais() {
   return (
     <>
-      <Header />
+      <Header variant="default" />
       <Cabecalho
         titulo="Orgãos Sociais"
         texto="Academia BAI &gt; Orgãos Sociais"
+        variant="default"
       />
       <div className="mesadaassembleiageralazul">
         <div className="mesadaassembleiageralverde">

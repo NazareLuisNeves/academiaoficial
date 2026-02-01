@@ -11,11 +11,12 @@ import linkedin from '../assets/linkedin.png'
 function MensagemdaPresidente() {
   return (
     <>
-      <Header />
+      <Header variant="default" />
       <section className="mensagempresidente">
         <Cabecalho
           titulo="Mensagem da Presidente"
           texto="Academia BAI &gt; Mensagem da Presidente"
+          variant="default"
         />
         <img src={PCA} alt="" className="PCA" />
         <Paragrafo

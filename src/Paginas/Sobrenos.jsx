@@ -18,9 +18,13 @@ import grupotres from '../assets/grupotres.png'
 function Sobrenos() {
   return (
     <>
-      <Header />
+      <Header variant="default" />
       <section className="sobre">
-        <Cabecalho titulo="Sobre Nós" texto="Academia BAI &gt; Sobre Nós" />
+        <Cabecalho
+          titulo="Sobre Nós"
+          texto="Academia BAI &gt; Sobre Nós"
+          variant="default"
+        />
         <img src="juntos.png" alt="" className="juntos" />
 
         <Paragrafo

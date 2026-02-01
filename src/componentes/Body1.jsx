@@ -1,7 +1,7 @@
 import React from 'react'
 import './../estilos/Body1.css'
 import edificio from './../assets/edificio.png'
-import modelo from './../assets/modelo.png'
+import moca from './../assets/mocaacademiabai.png'
 import { Link } from 'react-router-dom'
 
 function Body1() {
@@ -10,7 +10,7 @@ function Body1() {
       <section className="body1">
         {' '}
         <div className="body1-quadro">
-          <img src={modelo} alt="" className="body1-modelo" />
+          <img src={moca} alt="" className="body1-modelo" />
           <img src={edificio} alt="" className="body1-edificio" />
 
           <div className="body1-circulocentral">

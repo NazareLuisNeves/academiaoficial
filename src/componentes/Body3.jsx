@@ -7,9 +7,11 @@ function Body3() {
     <>
       <section className="body3">
         {' '}
-        <img src="moco.png" alt="" className="body3-moco" />{' '}
-        <img src="idoso.png" alt="" className="body3-idoso" />{' '}
-        <img src="moca.png" alt="" className="body3-moca" />{' '}
+        <img
+          src="quadroacademiabai.jpg"
+          alt=""
+          className="quadro-academiabai"
+        />{' '}
         <div className="body3-faixa1" /> <div className="body3-faixa2" />{' '}
         <div className="container-sobrenos">
           <p className="sobrenos">Sobre Nós</p> <h1>Uma Academia de Vida!</h1>{' '}

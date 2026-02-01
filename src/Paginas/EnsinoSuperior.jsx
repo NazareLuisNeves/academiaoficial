@@ -203,7 +203,7 @@ function EnsinoSuperior() {
                 Gestão Bancária e de <br />
                 Seguros
               </span>
-              <span className="ensino-subtitulo">Conatbilidade e Finanças</span>
+              <span className="ensino-subtitulo">Contabilidade e Finanças</span>
             </div>
 
             <div className="ensino-grupo1">

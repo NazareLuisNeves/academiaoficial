@@ -4,13 +4,13 @@ import { FaSearch } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 import Navbar from '../componentes/Navbar.jsx'
 
-function Header() {
+function Header({ variant = 'default' }) {
   return (
     <>
-      <header>
+      <header className={`header header--${variant}`}>
         <div className="home-containerheader">
           {' '}
-          <img src="academialogo.png" alt="" className="home-logo" />{' '}
+          <img src="academiabai.png" alt="" className="home-logo" />{' '}
           <div className="home-caixa">
             {' '}
             <Navbar />{' '}
@@ -25,25 +25,21 @@ function Header() {
             </div>{' '}
             <div className="home-menu">
               {' '}
-              <label htmlFor="text" className="home-label1">
-                {' '}
-                Academia BAI▾{' '}
-              </label>{' '}
+              <Link to="/home" className="home-label1">
+                Academia BAI▾
+              </Link>{' '}
               <Link to="/ensino-superior" className="home-label2">
                 Ensino▾{' '}
               </Link>
-              <label htmlFor="text" className="home-label3">
-                {' '}
+              <Link to="/livros" className="home-label3">
                 Publicações▾{' '}
-              </label>{' '}
-              <label htmlFor="text" className="home-label4">
-                {' '}
-                Espaços{' '}
-              </label>{' '}
-              <label htmlFor="text" className="home-label5">
-                {' '}
+              </Link>{' '}
+              <Link to="/espacos" className="home-label4">
+                Espaços
+              </Link>{' '}
+              <Link to="/espacos" className="home-label5">
                 Contactos▾{' '}
-              </label>{' '}
+              </Link>{' '}
             </div>{' '}
           </div>{' '}
           <div className="home-botoes">

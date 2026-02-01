@@ -2,27 +2,44 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 10px;
+  flex-wrap: wrap;
   padding: 10px 20px;
   width: 100%;
-  font-family: 'Roboto', Sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.home-logo {
+  width: 141px;
+  height: 75px;
 }
 .home-caixa {
   display: flex;
   align-items: center;
   gap: 10px;
-  background-color: rgba(228, 234, 243, 0.374);
-  padding: 10px;
-  height: 70px;
-  width: 839px;
-  margin-left: 117px;
+  flex: 1;
+  max-width: 839px;
+  margin: 0 auto;
   border-radius: 20px;
 }
+.header--default .home-caixa {
+  background-color: #f4f6fb;
+}
+.header--espacos .home-logo {
+  background-color: #a9aebd;
+  border-radius: 20px;
+  width: 150px;
+}
+.header--espacos .home-caixa {
+  background-color: #a9aebd;
+}
+.header--espacos .home-circulomaior {
+  background-color: #a9aebd;
+}
 .home-barra {
-  width: 160px;
+  width: 100%;
+  max-width: 160px;
   height: 35px;
   border-radius: 11px;
-  border: 1px solid rgb(37, 91, 179);
+  border: 1px solid #025ab3;
   padding: 10px;
   font-size: 14px;
   background-color: rgb(37, 91, 179);
@@ -32,68 +49,66 @@ header {
 .home-pesquisa {
   display: flex;
   align-items: center;
-  justify-content: center;
-  position: absolute;
-  margin-left: 10px;
+
+  gap: 6px;
 }
 .home-lupa {
   width: 18px;
   height: 27px;
-  margin-top: 1px;
-  margin-left: -30px;
+  margin: 0;
   display: flex;
   color: white;
 }
 .home-label1 {
   font-size: 17px;
   font-weight: 350;
-  margin-left: -20px;
-  color: rgb(37, 91, 179);
+  color: #025ab3;
   padding: 5px;
   width: 126px;
   white-space: nowrap;
+  text-decoration: none;
 }
 .home-label2 {
   font-size: 17px;
   font-weight: 1;
-  margin-left: 20px;
+
   color: rgb(25, 12, 67);
   padding: 5px;
+  text-decoration: none;
+}
+.home-label2 :hover {
+  color: #025ab3;
 }
 .home-label3 {
   font-size: 17px;
   font-weight: 1;
-  margin-left: 20px;
+
   color: rgb(25, 12, 67);
   padding: 5px;
+  text-decoration: none;
+}
+.home-label3 :hover {
+  color: #025ab3;
 }
 .home-label4 {
   font-size: 17px;
   font-weight: 1;
-  margin-left: 20px;
+
   color: rgb(25, 12, 67);
   padding: 5px;
+  text-decoration: none;
 }
 .home-label5 {
   font-size: 17px;
   font-weight: 1;
-  margin-left: 20px;
   color: rgb(25, 12, 67);
   padding: 5px;
+  text-decoration: none;
 }
 .home-menu {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: -221px;
-  color: #f5f5f5;
-  position: relative;
-  padding-right: 10px;
-}
-.home-logo {
-  width: 141px;
-  height: 75px;
-  margin-left: 15px;
 }
 .home-circulomaior {
   width: 63px;
@@ -117,7 +132,7 @@ header {
   gap: 2px;
 }
 .home-circulomenor:hover {
-  background-color: #07dfdf;
+  background-color: #31ecf1;
   border: none;
 }
 .home-circulomenor:hover .home-bolinha1 {
@@ -142,10 +157,27 @@ header {
 .home-containerheader {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: 12px;
   width: 100%;
   position: relative;
   z-index: 10;
 }
 .rota1 {
   margin-left: 1px;
+}
+@media (max-width: 768px) {
+  .home-containerheader {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .home-caixa {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .home-menu {
+    align-self: center;
+  }
 }

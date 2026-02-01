@@ -1,9 +1,11 @@
 import React from 'react'
 import estilos from '../estilos/Cabecalho.module.css'
 
-function Cabecalho({ titulo, texto }) {
+function Cabecalho({ titulo, texto, variant = 'default' }) {
   return (
-    <div className={estilos.cabecalhoFichamaior}>
+    <div
+      className={`cabecalho cabecalho--${variant} ${estilos.cabecalhoFichamaior}`}
+    >
       {' '}
       <div className={estilos.cabecalhoContainer}>
         <h1 className={estilos.titulo}>{titulo}</h1>{' '}

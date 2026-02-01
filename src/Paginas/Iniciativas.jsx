@@ -53,8 +53,12 @@ function Iniciativas() {
 
   return (
     <>
-      <Header />
-      <Cabecalho titulo="Iniciativas" texto="Academia BAI > Iniciativas" />
+      <Header variant="default" />
+      <Cabecalho
+        titulo="Iniciativas"
+        texto="Academia BAI > Iniciativas"
+        variant="default"
+      />
       <div className="iniciativa-container">
         {' '}
         {iniciativas.map((iniciativa, index) => (

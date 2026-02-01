@@ -10,6 +10,9 @@ import Política from './Paginas/PolíticaDeQualidade'
 import CertificadoDeConformidade from './Paginas/CertificadoDeConformidade'
 import EnsinoSuperior from './Paginas/EnsinoSuperior'
 import FormacaoComplementar from './Paginas/FormacaoComplementar'
+import NossosLivros from './Paginas/NossosLivros'
+import Espacos from './Paginas/Espacos'
+import Reclamacoes from './Paginas/Reclamacoes'
 
 function App() {
   return (
@@ -37,6 +40,9 @@ function App() {
             path="/formacao-complementar"
             element={<FormacaoComplementar />}
           />
+          <Route path="/publicacoes/livros" element={<NossosLivros />} />
+          <Route path="/espacos" element={<Espacos />} />
+          <Route path="/contactos/reclamacoes" element={<Reclamacoes />} />
         </Routes>
       </Router>
     </>

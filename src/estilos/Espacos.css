@@ -1,0 +1,78 @@
+.espacos-page {
+  background-color: #0a1b3b;
+  min-height: 100vh;
+}
+main {
+  font-family: 'Roboto', sans-serif;
+}
+.espacos-container-geral {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.espacos-info {
+  display: flex;
+  align-self: flex-start;
+  flex-direction: column;
+  width: 41%;
+  gap: 20px;
+  border-right: 4px solid #2cdae2;
+  padding-right: 10px;
+}
+.espacos-info h3 {
+  color: #2cdae2;
+  text-align: left;
+  font-weight: lighter;
+}
+.espacos-info h1 {
+  color: white;
+}
+.espacos-info span {
+  color: white;
+  line-height: 1.5;
+  white-space: normal;
+}
+.espacos-info button {
+  background-color: #025ab3;
+  color: white;
+  padding: 17px 20px 20px 14px;
+  border-radius: 10px;
+  font-size: 17px;
+  width: 34%;
+  align-self: flex-start;
+  height: 15%;
+}
+.espacos-info button:hover {
+  background-color: #2cdae2;
+  color: #0a1b3b;
+}
+.espacos-info h1,
+.espacos-info h3,
+.espacos-info span,
+.espacos-info button {
+  margin: 0;
+}
+.icone-bookmark {
+  color: white;
+}
+.icone-bookmark:hover {
+  color: #0a1b3b;
+}
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+main,
+.espacos-container-geral,
+.espacos-carrossel-wrapper {
+  margin: 0;
+  padding: 0;
+}
+.caixa-carrossel {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: flex-end;
+}

@@ -1,5 +1,5 @@
 .bolinhapri {
-  margin-left: 0px;
-  width: 1270px;
-  margin-top: 97px;
+  display: flex;
+  margin-top: 22px;
+  text-align: center;
 }

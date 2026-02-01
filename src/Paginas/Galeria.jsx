@@ -162,8 +162,12 @@ import galeria155 from '../assets/galeria155.png'
 export default function Galeria() {
   return (
     <>
-      <Header />
-      <Cabecalho titulo="Galeria" texto="Academia BAI &gt; Galeria" />
+      <Header variant="default" />
+      <Cabecalho
+        titulo="Galeria"
+        texto="Academia BAI &gt; Galeria"
+        variant="default"
+      />
       <div className="tudo">TUDO</div> <h5 className="titulos1">PARCERIAS</h5>{' '}
       <h5 className="titulos2">O LIVRO DA MINHA VIDA</h5>{' '}
       <h5 className="titulos3">WOMEN ON BOARD</h5>{' '}

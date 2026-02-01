@@ -1,12 +1,17 @@
 .cabecalhoFichamaior {
   width: 1065px;
   height: 115px;
-  background-color: rgb(33, 94, 192);
   margin-top: 53px;
   position: relative;
   margin-left: 227px;
   display: flex;
   align-items: center;
+}
+.cabecalho--default .cabecalhoFichamaior {
+  background-color: rgb(33, 94, 192);
+}
+.cabecalho--espacos .cabecalhoFichamaior {
+  background-color: rgb(33, 94, 192);
 }
 .cabecalhoFichamenor {
   width: 14px;

@@ -8,10 +8,11 @@ import '../estilos/PoliticaDaQualidade.css'
 function PolíticaDeQualidade() {
   return (
     <>
-      <Header />
+      <Header variant="default" />
       <Cabecalho
         titulo="Política da Qualidade"
         texto="Academia BAI > Política da Qualidade"
+        variant="default"
       />
       <img src="politicadaqualidade.png" alt="" className="politica-img" />
       <Bolinha />

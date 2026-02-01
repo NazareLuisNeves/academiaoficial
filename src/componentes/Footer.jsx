@@ -15,7 +15,11 @@ function Footer() {
     <footer className="geral">
       <div className="footer-conteudo">
         <div className="footer-esquerda">
-          <img src="icone.png" alt="Academia BAI" className="footer-icone" />
+          <img
+            src="academiabai.png"
+            alt="Academia BAI"
+            className="footer-icone"
+          />
           <p className="criada">
             Criada em 2012, nasceu com a <br /> missão de contribuir para o{' '}
             <br />

@@ -12,6 +12,7 @@ function Carreiras() {
       <Cabecalho
         titulo="Junte-se à Academia BAI"
         texto="Academia BAI > Junte-se à Academia BAI"
+        variant="default"
       />
       <img src="carreiras.png" alt="" className="carreiraimagem" />{' '}
       <h2 className="titulo1">Somos Feitos de Pessoas</h2>{' '}
@@ -131,10 +132,8 @@ function Carreiras() {
           <label>
             {' '}
             Desejo receber alertas de e-mail apenas <br /> da área de interesse
-            registada <input
-              type="checkbox"
-              name="alertas-area-interesse"
-            />{' '}
+            registada{' '}
+            <input type="checkbox" name="alertas-area-interesse" />{' '}
           </label>{' '}
         </div>{' '}
         <div className="campo-checkbox2">

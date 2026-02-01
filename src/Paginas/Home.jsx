@@ -11,7 +11,7 @@ function Home() {
   return (
     <>
       <main>
-        <Header />
+        <Header variant="default" />
         <Body1 />
         <Body2 />
         <Body3 />

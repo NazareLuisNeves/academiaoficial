@@ -12,6 +12,7 @@ function CertificadoDeConformidade() {
       <Cabecalho
         titulo="Certificado de Conformidade"
         texto="Academia BAI > Certificado de Conformidade"
+        variant="default"
       />
       <img src="certificado copy.png" alt="" className="certificado-img" />
       <Bolinha />

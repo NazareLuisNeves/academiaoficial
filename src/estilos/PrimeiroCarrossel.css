@@ -1,0 +1,23 @@
+.container-carrossel {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+  width: 100%;
+}
+.carrossel-viewport {
+  overflow: hidden;
+  width: 100%;
+}
+
+.carrossel-mudanca {
+  display: flex;
+  gap: 20px;
+}
+
+.carrossel-img {
+  width: 19%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 229px;
+  flex-shrink: 0;
+}
